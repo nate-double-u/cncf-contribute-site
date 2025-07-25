@@ -34,24 +34,23 @@
   font-weight: 700;
   letter-spacing: .02em;
   margin-left: 4rem;
-  padding: 0.5rem 1rem;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  padding-left: 40px;
+  padding-right: 40px;
   border: 1px solid #fff;
   border-radius: 4px;
-}
-
-.button a {
   color: #fff !important;
+  transition: all .25s ease-out;
   text-decoration: none;
+  max-width: calc(614px - 15px - 15px);
 }
 
 .button:hover {
   border: 1px solid var( --ifm-link-color );
   background-color: var( --ifm-link-color );
-}
-
-.button:hover a {
   color: #fff;
-  text-decoration: none;
+  text-decoration: none !important;
 }
 
 .socialIcons {

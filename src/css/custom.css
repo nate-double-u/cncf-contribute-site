@@ -104,3 +104,7 @@
 	src: local('ClarityCity-Black'), local('Clarity City'), url('/fonts/ClarityCity-900.woff2') format('woff2'),
 		url('/fonts/ClarityCity-900.woff') format('woff'), url('/fonts/ClarityCity-900.ttf') format('ttf');
 }
+
+.navbar__logo:not(#\#):not(#\#) {
+  height: 2.5rem;
+}
