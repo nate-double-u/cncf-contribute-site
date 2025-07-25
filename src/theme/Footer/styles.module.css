@@ -1,0 +1,86 @@
+.footer {
+  background-color: #000;
+  color: #fff;
+  padding: 2rem;
+  font-size: 0.875rem;
+}
+
+.topRow {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.left {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.logo {
+  width: 210px;
+  height: auto;
+}
+
+.orgText {
+  font-size: 0.75rem;
+  line-height: 1.2;
+}
+
+.button {
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 700;
+  letter-spacing: .02em;
+  margin-left: 4rem;
+  padding: 0.5rem 1rem;
+  border: 1px solid #fff;
+  text-decoration: none;
+  color: #fff;
+  border-radius: 4px;
+}
+
+.button a {
+  color: #fff;
+}
+
+
+.button:hover {
+  border: 1px solid #d62293;
+  background-color: #d62293;
+  color: #fff;
+}
+
+.socialIcons {
+  display: flex;
+  gap: 1rem;
+}
+
+.socialIcons a {
+    padding: 17px;
+}
+
+.socialIcons svg {
+    fill: #fff;
+    color: #fff;
+    height: 25px;
+    max-width: 30px;
+    overflow: hidden;
+    vertical-align: middle;
+}
+
+.socialIcons svg:hover {
+    fill: #d62293;
+    color: #d62293;
+}
+
+.divider {
+  margin: 1.5rem 0;
+  border: 0.5px solid #444;
+}
+
+.bottomRow {
+  text-align: center;
+  font-size: 0.75rem;
+}
