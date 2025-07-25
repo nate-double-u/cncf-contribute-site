@@ -36,20 +36,22 @@
   margin-left: 4rem;
   padding: 0.5rem 1rem;
   border: 1px solid #fff;
-  text-decoration: none;
-  color: #fff;
   border-radius: 4px;
 }
 
 .button a {
-  color: #fff;
+  color: #fff !important;
+  text-decoration: none;
 }
 
-
 .button:hover {
-  border: 1px solid #d62293;
-  background-color: #d62293;
+  border: 1px solid var( --ifm-link-color );
+  background-color: var( --ifm-link-color );
+}
+
+.button:hover a {
   color: #fff;
+  text-decoration: none;
 }
 
 .socialIcons {

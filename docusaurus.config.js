@@ -84,7 +84,7 @@ const config = {
       navbar: {
         title: '',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Contribute to Cloud Native',
           src: 'img/logo.svg',
         },
         items: [
