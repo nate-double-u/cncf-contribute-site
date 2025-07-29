@@ -34,9 +34,13 @@ krook:
   name: Daniel Krook
   page: true
   title: Senior Director of Developer Experience
-  url: https://github.com/krook
+  url: https://krook.net/
   image_url: https://github.com/krook.png
-  email: fixme
+  email: dkrook@linuxfoundation.org
+  socials:
+    bluesky: krook.net
+    github: krook
+    linkedin: krook
 mrbobbytables:
   name: Bob Killen
   page: true
