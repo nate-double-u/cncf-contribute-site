@@ -53,10 +53,14 @@ mrbobbytables:
     github: mrbobbytables
     linkedin: mrbobbytables
     x: mrbobbytables
+
 nate-double-u:
   name: Nate Waddington
   page: true
   title: Head of Mentorship and Documentation
-  url: https://github.com/nate-double-u
-  image_url: https://github.com/nate-double-u.png
-  email: fixme
+  url: https://hackabletype.com/
+  image_url: https://raw.githubusercontent.com/cncf/people/main/images/nate-waddington.jpg
+  email: natew@cncf.io
+  socials:
+    github: nate-double-u
+    mastodon: https://mstdn.ca/@natew
