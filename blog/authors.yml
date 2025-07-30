@@ -44,10 +44,15 @@ krook:
 mrbobbytables:
   name: Bob Killen
   page: true
-  title: fixme
-  url: https://github.com/mrbobbytables
+  title: Senior Technical Program Manager
+  url: https://mrbobbytabl.es
   image_url: https://github.com/mrbobbytables.png
-  email: fixme
+  email: bkillen@linuxfoundation.org
+  socials:
+    bluesky: mrbobbytabl.es
+    github: mrbobbytables
+    linkedin: mrbobbytables
+    x: mrbobbytables
 nate-double-u:
   name: Nate Waddington
   page: true
