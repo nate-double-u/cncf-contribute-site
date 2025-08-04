@@ -1,5 +1,5 @@
 ---
 title: Maintainer Summit
-description: 
+description: Annual Maintainer Summit at KubeCon and CloudNativeCon
 ---
 
