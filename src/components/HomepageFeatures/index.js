@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Contributors',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Navigate the Cloud Native as an individual contributor. Get started, find new friends, forge your path.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Projects',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Over 220 Projects choose the CNCF as their home. These resources document how we work together as a team. 
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Community',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Stronger, together. Contributors and Projects collaborate to get larger goals accomplished. 
       </>
     ),
   },
