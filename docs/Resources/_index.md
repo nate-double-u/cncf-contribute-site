@@ -1,5 +1,5 @@
 ---
-title: Resources
+title: Resources and Services
 menu:
   main:
     weight: 40
