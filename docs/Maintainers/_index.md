@@ -1,6 +1,7 @@
 ---
 title: Do you want to start contributing to open source and need help figuring out where to begin?
-linkTitle: Start Contributing to Open Source
+sidebar_position: 1
+
 ---
 
 ### Introduction

@@ -1,8 +1,6 @@
 ---
 title: Resources and Services
-menu:
-  main:
-    weight: 40
+sidebar_position: 4
 ---
 
 TODO:

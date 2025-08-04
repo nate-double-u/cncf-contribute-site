@@ -1,5 +1,6 @@
 ---
 title: CNCF Projects
+sidebar_position: 2
 ---
 
 All projects of the Cloud Native Computing Foundation are classified with one of three stages of maturity. The CNCF TOC uses these criteria to define project maturity: 
