@@ -3,7 +3,7 @@ title: "Resources"
 type: single
 ---
 
-## [servicedeskt.cncf.io](https://servicedesk.cncf.io/)
+## [servicedesk.cncf.io](https://servicedesk.cncf.io/)
 
 This is the main portal you should use to get support, you should receive a response within 48 hours.
 
