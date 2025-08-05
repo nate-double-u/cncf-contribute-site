@@ -1,6 +1,6 @@
 ---
 title: Events
-sidebar_position: 5
+sidebar_position: 6
 ---
 
 What is the different kind of maintainer event stuff (have each item tagged with what levels they apply to)
