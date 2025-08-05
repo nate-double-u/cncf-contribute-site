@@ -1,14 +1,15 @@
 ---
-title: "CNCF Contributors"
-linkTitle: "CNCF Contributors"
+title: "Resources"
 type: single
 ---
 
-### How do I file a ticket with the Service Desk?
+## [servicedeskt.cncf.io](https://servicedesk.cncf.io/)
 
-If you're a CNCF project committer/maintainer, all you have to do is visit [the web portal](https://servicedesk.cncf.io/) to request support.
+This is the main portal you should use to get support, you should receive a response within 48 hours.
 
-All CNCF maintainers are listed [here](http://maintainers.cncf.io/).
+## [maintainers.cncf.io](http://maintainers.cncf.io/)
+
+All CNCF maintainers are listed in this file, if you are a maintainer of a CNCF Project and need to add yourself follow these TODO: instructions.
 
 ### What happens if I want to use a tool or service not listed here?
 
@@ -17,10 +18,6 @@ Projects are welcome to use their own tools in the CNCF, we are a strong support
 ### I have a project I want to donate to the CNCF
 
 Awesome! To contribute your project to CNCF or discuss how CNCF can help your project, email info@cncf.io and read the [TOC repo](https://github.com/cncf/toc#projects) for further information. 
-
-### Is there an SLA for Service Desk issues?
-
-Yes, you should receive a response within 48 hours.
 
 ### How much budget is available for projects?
 
