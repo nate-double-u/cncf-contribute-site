@@ -44,8 +44,6 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/cncf/contribute-site/tree/main',
         },
@@ -55,8 +53,6 @@ const config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/cncf/contribute-site/tree/main/',
           // Useful options to enforce blogging best practices
@@ -85,16 +81,41 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'contributorsSidebar',
             position: 'left',
-            label: 'Contribute',
+            label: 'New Contributors',
           },
-          {to: 'docs/maintainers', label: 'Maintainers', position: 'left' },
-          {to: 'docs/projects', label: 'Projects', position: 'left'},
-          {to: 'docs/community', label: 'Community', position: 'left'},
-          {to: 'docs/resources', label: 'Resources', position: 'left'},
-          {to: 'docs/events', label: 'Events', position: 'left'},
-          {to: '/blog', label: 'Blog', position: 'left'}
+          {
+            type: 'docSidebar',
+            sidebarId: 'maintainersSidebar',
+            position: 'left',
+            label: 'Maintainers'
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'projectsSidebar',
+            position: 'left',
+            label: 'Projects'
+          },
+//          {
+//            type: 'docSidebar',
+//            sidebarId: 'communitySidebar',
+//            position: 'left',
+//            label: 'Community'
+//          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'resourcesSidebar',
+            position: 'left',
+            label: 'Resources'
+          },
+                    {
+            type: 'docSidebar',
+            sidebarId: 'eventsSidebar',
+            position: 'left',
+            label: 'Events'
+          },
+          {to: '/blog', label: 'Blog', position: 'right'}
         ],
       },
       footer: {
