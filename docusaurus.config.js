@@ -89,12 +89,12 @@ const config = {
             position: 'left',
             label: 'Contribute',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/cncf/contribute-site',
-            label: 'GitHub',
-            position: 'right',
-          },
+          {to: 'docs/maintainers', label: 'Maintainers', position: 'left' },
+          {to: 'docs/projects', label: 'Projects', position: 'left'},
+          {to: 'docs/community', label: 'Community', position: 'left'},
+          {to: 'docs/resources', label: 'Resources', position: 'left'},
+          {to: 'docs/events', label: 'Events', position: 'left'},
+          {to: '/blog', label: 'Blog', position: 'left'}
         ],
       },
       footer: {
