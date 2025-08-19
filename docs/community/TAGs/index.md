@@ -19,4 +19,4 @@ Dedicated to operational resilience and reliability practices.
 Addressing security and compliance concerns in cloud native systems.
 
 ### TAG Workloads Foundation
-Foundation for cloud native workloads and applications."
+Foundation for cloud native workloads and applications.

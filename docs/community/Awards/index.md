@@ -1,7 +1,7 @@
 ---
 title: CNCF Community Awards
 description: Individuals and organizations that have made significant contributions to the cloud native ecosystem
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 TODO: This should be dynamically pulled from cncf/awards repository
