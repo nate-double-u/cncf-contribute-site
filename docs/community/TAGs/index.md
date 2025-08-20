@@ -20,3 +20,6 @@ Addressing security and compliance concerns in cloud native systems.
 
 ### TAG Workloads Foundation
 Foundation for cloud native workloads and applications.
+
+### TAG Infrastructure
+Develop and promote practices, standards, and assessments for core cloud native infrastructure areas, enabling systems, applications, and architectures that are scalable, resilient, secure, and performan
