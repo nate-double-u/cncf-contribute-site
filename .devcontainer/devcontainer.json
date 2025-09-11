@@ -29,6 +29,9 @@
   "postCreateCommand": "npm install",
   "postStartCommand": "npm run docus:start",
   "waitFor": "postCreateCommand",
+  "mounts": [
+    "source=${localEnv:HOME}/.ssh,target=/home/vscode/.ssh,type=bind,consistency=cached"
+  ],
   "features": {
     "node": {
       "version": "22"
