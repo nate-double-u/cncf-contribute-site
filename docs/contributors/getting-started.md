@@ -1,5 +1,6 @@
 ---
 title: Do you want to start contributing to open source and need help figuring out where to begin?
+slug: "getting-started"
 sidebar_position: 1
 
 ---
