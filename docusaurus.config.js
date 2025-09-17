@@ -35,6 +35,16 @@ const config = {
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
+    path: 'i18n',
+    localeConfigs: {
+      en: {
+        label: 'English',
+        direction: 'ltr',
+        htmlLang: 'en-US',
+        calendar: 'gregory',
+        path: 'en',
+      }
+    },
   },
 
   presets: [
@@ -124,6 +134,10 @@ const config = {
             label: 'Events',
           },
           { to: '/blog', label: 'Blog', position: 'right' },
+          {
+            type: 'localeDropdown',
+            position: 'right',
+          },
         ],
       },
       footer: {
