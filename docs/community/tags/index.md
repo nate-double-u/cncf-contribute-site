@@ -1,6 +1,7 @@
 ---
 title: Technical Advisory Groups (TAGs)
-sidebar_position: 2
+sidebar_label: Technical Advisory Groups
+sidebar_position: 4
 ---
 
 # CNCF Technical Advisory Groups (TAGs)

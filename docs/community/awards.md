@@ -1,11 +1,8 @@
 ---
-title: CNCF Community Awards
+title: Community Awards
 description: Individuals and organizations that have made significant contributions to the cloud native ecosystem
-sidebar_position: 3
+sidebar_position: 10
 ---
-
-TODO: This should be dynamically pulled from cncf/awards repository
-
 
 CNCF Community Awards will reward the community members, developers and advocates working hardest to advance cloud native.
 
