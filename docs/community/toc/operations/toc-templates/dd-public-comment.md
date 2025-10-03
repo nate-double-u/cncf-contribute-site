@@ -1,5 +1,5 @@
 ---
-title: TEMPLATE: Public Comment Message
+title: "TEMPLATE: Public Comment Message"
 ---
 
 # Public Comment Message Template
