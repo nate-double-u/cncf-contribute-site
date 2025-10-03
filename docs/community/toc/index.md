@@ -1,5 +1,5 @@
 ---
 title: TOC
 sidebar_label: Technical Oversight Committee
-position: 3
+sidebar_position: 4
 ---
