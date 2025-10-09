@@ -1,5 +1,14 @@
 {
+  "name": "CNCF Contribute Site Dev Container",
   "image": "mcr.microsoft.com/devcontainers/base:ubuntu-24.04",
+  "mounts": [
+    "source=${localEnv:SSH_AUTH_SOCK},target=/ssh-agent,type=bind",
+    "source=${localEnv:HOME}/.ssh,target=/home/vscode/.ssh,type=bind,consistency=cached"
+  ],
+  "remoteEnv": {
+    "SSH_AUTH_SOCK": "/ssh-agent"
+  },
+  "containerUser": "vscode",
   "customizations": {
     "vscode": {
       "settings": {
@@ -14,7 +23,9 @@
         "[jsonc]": {
           "editor.defaultFormatter": "esbenp.prettier-vscode",
           "editor.formatOnSave": true
-        }
+        },
+        "git.detectSubmodules": false,
+        "git.confirmSync": false
       },
       "extensions": [
         "dbaeumer.vscode-eslint",
@@ -26,7 +37,7 @@
   },
   "forwardPorts": [3000],
   "containerUser": "vscode",
-  "postCreateCommand": "npm install",
+  "postCreateCommand": "mkdir -p ~/.ssh && chmod 700 ~/.ssh && ssh-keyscan -t rsa,ecdsa,ed25519 github.com >> ~/.ssh/known_hosts && chmod 644 ~/.ssh/known_hosts && npm install",
   "postStartCommand": "npm run docus:start",
   "waitFor": "postCreateCommand",
   "mounts": [
