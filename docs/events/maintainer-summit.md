@@ -91,18 +91,13 @@ The summit provides opportunities to understand how the CNCF (TOC and TAGs) supp
 ### Speaker Registration Benefits
 
 Accepted speakers who submitted via the CFP process will receive an **“All-Access” pass** for CNCF-hosted co-located events and KubeCon + CloudNativeCon programming. (This excludes proposals submitted for Project Meetings).
+
+**CFP Timeline:**  
 - **CFP Opens:** See the official [CFP timeline here](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/cfp/)  
 - **CFP Closes:** See the official [CFP timeline here](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/cfp/)  
 - **Notification of Acceptance:** See the official [CFP timeline here](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/cfp/)
 
-_Note: The CFP timeline is maintained at the official CNCF event website. Please refer to the [CFP timeline](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/cfp/) for the most up-to-date information. In previous years, the CFP opened in mid-May and closed at the end of July to avoid holidays and short deadlines._
-**2025 Maintainer Summit CFP Timeline:**  
-- **CFP Opens:** [To be announced; check back for updates or subscribe to CNCF communications]  
-- **CFP Closes:** [To be announced]  
-- **Notification of Acceptance:** [To be announced]
-
-_Note: In previous years, the CFP opened in mid-May and closed at the end of July to avoid holidays and short deadlines. The timeline for each year's summit typically follows a similar schedule; please check back for the most current dates and updates._
-
+_Note: The CFP timeline is maintained at the official CNCF event website. Please refer to the [CFP timeline](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/cfp/) for the most up-to-date information. In previous years, the CFP opened in mid-May and closed at the end of July to avoid holidays and short deadlines. The timeline for each year's summit typically follows a similar schedule; please check back for the most current dates and updates._
 ---
 
 ## Sponsorship and Acknowledgments
