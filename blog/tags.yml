@@ -32,3 +32,18 @@ nominations:
   label: Nominations
   permalink: /nominations
   description: Call for nominations and submissions
+
+kubecon:
+  label: KubeCon
+  permalink: /kubecon
+  description: KubeCon + CloudNativeCon event coverage
+
+events:
+  label: Events
+  permalink: /events
+  description: CNCF and community events
+
+project-pavilion:
+  label: Project Pavilion
+  permalink: /project-pavilion
+  description: Project Pavilion kiosk information and updates
