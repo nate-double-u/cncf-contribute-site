@@ -6,26 +6,20 @@ sidebar_position: 4
 
 # Technical Oversight Committee (TOC)
 
-The CNCF Technical Oversight Committee (TOC) is responsible for defining and
-maintaining the technical vision for the Cloud Native Computing Foundation. The
-TOC oversees the technical direction of CNCF projects, approves new projects,
-and provides guidance on technical matters across the CNCF ecosystem.
+The CNCF Technical Oversight Committee (TOC) is responsible for defining and maintaining the technical vision for the Cloud Native Computing Foundation. The TOC oversees the technical direction of CNCF projects, approves new projects, and provides guidance on technical matters across the CNCF ecosystem.
 
 ## Mission
 
-The TOC's mission is to facilitate the growth and sustainability of the cloud
-native ecosystem by:
+The TOC's mission is to facilitate the growth and sustainability of the cloud native ecosystem by:
 
 - Defining and evolving the technical vision for cloud native computing
 - Approving new projects for CNCF
 - Accepting feedback from end user and vendor communities
-- Aligning projects, promoting collaboration, and removing barriers to
-  contribution
+- Aligning projects, promoting collaboration, and removing barriers to contribution
 
 ## TOC Meetings
 
-The TOC holds regular meetings to conduct business and engage with the
-community.
+The TOC holds regular meetings to conduct business and engage with the community.
 
 ### Meeting Schedule
 
@@ -33,19 +27,18 @@ community.
 - **Day & Time**: Tuesdays at 0800 PST / 1100 EST / 1700 CET
 - **Meeting Types**:
   - **Week 1**: Technical Advisory Group (TAG) updates and discussions
-  - **Week 2**: Private TOC working session (review issues, votes, internal
-    discussions)
+  - **Week 2**: Private TOC working session (review issues, votes, internal discussions)
   - **Week 3**: Public meeting for community topics and TOC activities
   - **Week 4**: Private TOC working session
 
 ### Meeting Resources
 
-| Resource              | Link                                                             |
-| --------------------- | ---------------------------------------------------------------- |
-| Meeting Calendar      | [CNCF Public Calendar](https://www.cncf.io/calendar/)            |
-| Meeting Notes         | [TOC GitHub Repository](https://github.com/cncf/toc)             |
-| Meeting Recordings    | [CNCF YouTube Channel](https://www.youtube.com/c/cloudnativefdn) |
-| Public Meeting Agenda | [GitHub Issues](https://github.com/cncf/toc/issues)              |
+| Resource | Link |
+|----------|------|
+| Meeting Calendar | [CNCF Public Calendar](https://www.cncf.io/calendar/) |
+| Meeting Notes | [TOC GitHub Repository](https://github.com/cncf/toc) |
+| Meeting Recordings | [CNCF YouTube Channel](https://www.youtube.com/c/cloudnativefdn) |
+| Public Meeting Agenda | [GitHub Issues](https://github.com/cncf/toc/issues) |
 
 ## Communication Channels
 
@@ -64,8 +57,7 @@ community.
 ### GitHub
 
 - **Repository**: [github.com/cncf/toc](https://github.com/cncf/toc)
-- **Purpose**: Project proposals, due diligence, governance documents, and issue
-  tracking
+- **Purpose**: Project proposals, due diligence, governance documents, and issue tracking
 
 ## TOC Responsibilities
 
@@ -73,8 +65,7 @@ The TOC's key responsibilities include:
 
 ### Project Lifecycle Management
 
-- Review and approve project applications for Sandbox, Incubation, and
-  Graduation
+- Review and approve project applications for Sandbox, Incubation, and Graduation
 - Conduct due diligence on projects seeking to join or advance within CNCF
 - Monitor project health and provide guidance to project maintainers
 - Archive projects that are no longer active or maintained
@@ -102,22 +93,19 @@ The TOC consists of 11 members who serve two-year terms:
 
 ### Current TOC Members
 
-For the most up-to-date list of TOC members, visit the
-[TOC GitHub repository](https://github.com/cncf/toc).
+For the most up-to-date list of TOC members, visit the [TOC GitHub repository](https://github.com/cncf/toc).
 
 ## Getting Involved
 
 ### Attend Meetings
 
-Public TOC meetings are held on the third Tuesday of each month. Anyone is
-welcome to attend and participate in the discussion.
+Public TOC meetings are held on the third Tuesday of each month. Anyone is welcome to attend and participate in the discussion.
 
 ### Propose a Project
 
 If you're interested in proposing a project to CNCF:
 
-1. Review the
-   [project proposal process](https://github.com/cncf/toc/blob/main/process/project_proposals.md)
+1. Review the [project proposal process](https://github.com/cncf/toc/blob/main/process/project_proposals.md)
 2. Prepare your proposal using the provided template
 3. Submit an issue to the TOC repository
 4. Present to the TOC during a scheduled meeting
@@ -135,17 +123,15 @@ The TOC welcomes feedback from the community:
 
 Learn more about how the TOC operates:
 
-- [TOC Operations](operations/index.md) - Procedures, responsibilities, and
-  expectations
-- [Decision Process](operations/toc-decision-process.md) - How the TOC makes
-  decisions
+- [TOC Operations](operations/index.md) - Procedures, responsibilities, and expectations
+- [Decision Process](operations/toc-decision-process.md) - How the TOC makes decisions
 - [TOC Onboarding](operations/onboarding.md) - Information for new TOC members
 
 ## Additional Resources
 
-| Resource                                                                                              | Description                                         |
-| ----------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| [TOC Principles](https://github.com/cncf/toc/blob/main/PRINCIPLES.md)                                 | Core principles guiding TOC decisions               |
-| [Project Proposal Process](https://github.com/cncf/toc/blob/main/process/project_proposals.md)        | How to propose a project to CNCF                    |
-| [Due Diligence Guidelines](https://github.com/cncf/toc/blob/main/process/due-diligence-guidelines.md) | Project evaluation criteria                         |
-| [CNCF Landscape](https://landscape.cncf.io/)                                                          | Visual representation of the cloud native ecosystem |
+| Resource | Description |
+|----------|-------------|
+| [TOC Principles](https://github.com/cncf/toc/blob/main/PRINCIPLES.md) | Core principles guiding TOC decisions |
+| [Project Proposal Process](https://github.com/cncf/toc/blob/main/process/project_proposals.md) | How to propose a project to CNCF |
+| [Due Diligence Guidelines](https://github.com/cncf/toc/blob/main/process/due-diligence-guidelines.md) | Project evaluation criteria |
+| [CNCF Landscape](https://landscape.cncf.io/) | Visual representation of the cloud native ecosystem |

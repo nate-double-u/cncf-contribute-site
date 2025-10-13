@@ -5,40 +5,34 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Contributors',
-    Svg: require('@site/static/img/CNCF-Contributor-Icons-Contributor.svg')
-      .default,
+    Svg: require('@site/static/img/CNCF-Contributor-Icons-Contributor.svg').default,
     description: (
       <>
-        Navigate the Cloud Native as an individual contributor. Get started,
-        find new friends, forge your path.
+        Navigate the Cloud Native as an individual contributor. Get started, find new friends, forge your path.
       </>
     ),
   },
   {
     title: 'Projects',
-    Svg: require('@site/static/img/CNCF-Contributor-Icons-Projects.svg')
-      .default,
+    Svg: require('@site/static/img/CNCF-Contributor-Icons-Projects.svg').default,
     description: (
       <>
-        Over 220 Projects choose the CNCF as their home. These resources
-        document how we work together as a team.
+        Over 220 Projects choose the CNCF as their home. These resources document how we work together as a team. 
       </>
     ),
   },
   {
     title: 'Community',
-    Svg: require('@site/static/img/CNCF-Contributor-Icons-Community.svg')
-      .default,
+    Svg: require('@site/static/img/CNCF-Contributor-Icons-Community.svg').default,
     description: (
       <>
-        Stronger, together. Contributors and Projects collaborate to get larger
-        goals accomplished.
+        Stronger, together. Contributors and Projects collaborate to get larger goals accomplished. 
       </>
     ),
   },
 ];
 
-function Feature({ Svg, title, description }) {
+function Feature({Svg, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">

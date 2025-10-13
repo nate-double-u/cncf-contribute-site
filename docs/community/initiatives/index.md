@@ -6,29 +6,22 @@ sidebar_position: 6
 
 # CNCF Initiatives
 
-Initiatives are lightweight organizational units used for TAG or TOC work. They
-are tightly scoped and time-bound, with specific outputs and deliverables.
-Initiatives provide a flexible way to accomplish focused work without the
-overhead of permanent organizational structures.
+Initiatives are lightweight organizational units used for TAG or TOC work. They are tightly scoped and time-bound, with specific outputs and deliverables. Initiatives provide a flexible way to accomplish focused work without the overhead of permanent organizational structures.
 
 ## What are Initiatives?
 
-According to the
-[CNCF Technical Group Governance](../governance/tech-group-governance.md),
-initiatives are:
+According to the [CNCF Technical Group Governance](../governance/tech-group-governance.md), initiatives are:
 
 - **Tightly Scoped** - Focused on specific, well-defined outcomes
 - **Time-Bound** - Have clear start and end dates or completion criteria
-- **Output-Oriented** - Produce concrete deliverables (whitepapers, tools,
-  standards, etc.)
+- **Output-Oriented** - Produce concrete deliverables (whitepapers, tools, standards, etc.)
 - **Flexible** - Can be formed and dissolved as needed
 
 ## Types of Initiatives
 
 ### TAG Initiatives
 
-TAG Initiatives are sponsored by a specific Technical Advisory Group and focus
-on work within that TAG's scope. Examples include:
+TAG Initiatives are sponsored by a specific Technical Advisory Group and focus on work within that TAG's scope. Examples include:
 
 - Developing a whitepaper on a specific technology or practice
 - Creating a reference architecture or implementation guide
@@ -37,13 +30,11 @@ on work within that TAG's scope. Examples include:
 
 ### Subproject Initiatives
 
-Subproject Initiatives are work items within a TAG's subproject. They follow
-similar patterns but are scoped to the subproject's domain.
+Subproject Initiatives are work items within a TAG's subproject. They follow similar patterns but are scoped to the subproject's domain.
 
 ### TOC Initiatives
 
-TOC Initiatives are sponsored directly by the Technical Oversight Committee and
-address cross-cutting concerns or strategic work. Examples include:
+TOC Initiatives are sponsored directly by the Technical Oversight Committee and address cross-cutting concerns or strategic work. Examples include:
 
 - Process improvements for project evaluation
 - Cross-TAG coordination efforts
@@ -55,10 +46,8 @@ address cross-cutting concerns or strategic work. Examples include:
 ### Formation
 
 1. **Proposal** - A TAG, subproject, or TOC member proposes an initiative
-2. **Scope Definition** - Clear objectives, deliverables, and timeline are
-   defined
-3. **Approval** - The sponsoring group (TAG, subproject, or TOC) approves the
-   initiative
+2. **Scope Definition** - Clear objectives, deliverables, and timeline are defined
+3. **Approval** - The sponsoring group (TAG, subproject, or TOC) approves the initiative
 4. **Team Formation** - Contributors are identified and roles assigned
 
 ### Execution
@@ -79,13 +68,10 @@ address cross-cutting concerns or strategic work. Examples include:
 
 The outputs of initiatives can be found in several places:
 
-- **TAG Repositories** - Most initiative outputs are published in the relevant
-  TAG's GitHub repository
-- **TOC Repository** - TOC initiative outputs are published in the
-  [CNCF TOC repository](https://github.com/cncf/toc)
+- **TAG Repositories** - Most initiative outputs are published in the relevant TAG's GitHub repository
+- **TOC Repository** - TOC initiative outputs are published in the [CNCF TOC repository](https://github.com/cncf/toc)
 - **CNCF Resources** - Major deliverables may be published on CNCF websites
-- **Initiative Folders** - Some TAGs maintain dedicated folders for initiative
-  artifacts
+- **Initiative Folders** - Some TAGs maintain dedicated folders for initiative artifacts
 
 ## Current and Past Initiatives
 
@@ -103,8 +89,7 @@ Visit each TAG's repository to see current initiatives:
 
 ### TOC Initiatives
 
-Visit the [CNCF TOC repository](https://github.com/cncf/toc) to see current TOC
-initiatives.
+Visit the [CNCF TOC repository](https://github.com/cncf/toc) to see current TOC initiatives.
 
 ## Participating in Initiatives
 
@@ -130,8 +115,7 @@ To join an existing initiative:
 
 To propose a new initiative:
 
-1. **Identify the Sponsor** - Determine which TAG or the TOC should sponsor the
-   work
+1. **Identify the Sponsor** - Determine which TAG or the TOC should sponsor the work
 2. **Draft a Proposal** - Include:
    - Clear objectives and scope
    - Expected deliverables
@@ -160,8 +144,7 @@ According to the governance framework, initiatives should:
 ### Templates and Guidance
 
 - Review existing initiatives in TAG repositories for examples
-- Follow the
-  [Technical Group Governance](../governance/tech-group-governance.md) framework
+- Follow the [Technical Group Governance](../governance/tech-group-governance.md) framework
 - Consult with TAG Chairs or TOC members for guidance
 
 ### Communication
@@ -183,9 +166,9 @@ Initiatives provide several benefits:
 
 ## Resources
 
-| Resource                                                             | Description                               |
-| -------------------------------------------------------------------- | ----------------------------------------- |
+| Resource | Description |
+|----------|-------------|
 | [Technical Group Governance](../governance/tech-group-governance.md) | Detailed governance including initiatives |
-| [CNCF TOC Repository](https://github.com/cncf/toc)                   | TOC initiatives and governance            |
-| [TAG Repositories](../tags/index.md)                                 | Links to all TAG repositories             |
-| [CNCF Community](https://github.com/cncf/community)                  | General CNCF community resources          |
+| [CNCF TOC Repository](https://github.com/cncf/toc) | TOC initiatives and governance |
+| [TAG Repositories](../tags/index.md) | Links to all TAG repositories |
+| [CNCF Community](https://github.com/cncf/community) | General CNCF community resources |

@@ -43,7 +43,7 @@ const config = {
         htmlLang: 'en-US',
         calendar: 'gregory',
         path: 'en',
-      },
+      }
     },
   },
 
@@ -101,7 +101,7 @@ const config = {
             position: 'left',
             label: 'Maintainers',
           },
-          {
+            {
             type: 'docSidebar',
             sidebarId: 'projectsSidebar',
             position: 'left',
