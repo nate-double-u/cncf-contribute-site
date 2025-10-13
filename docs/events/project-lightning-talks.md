@@ -15,3 +15,5 @@ The talks are strongly recommended for **new attendees**, especially since over 
 ### Hosts and Theme
 
 The event is hosted by two "fabulous hosts". The hosts manage the introduction and cover the content via the theme, **“The Hitchhiker’s Guide to the CNCF Landscape”**. This session aims to help attendees navigate the "highly intimidating map of all of these projects" known as the CNCF Landscape. Attendees are encouraged to note any projects that "Vibe" with them so they can visit them later in the Project Pavilion.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_r7blpGA1Fw?si=ATJUgrK8z1c6ROcB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
