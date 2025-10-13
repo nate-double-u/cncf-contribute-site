@@ -88,10 +88,14 @@ Accepted speakers who submitted via the CFP process will receive an **“All-Acc
 
 *Note: Leaders of unconference sessions do not receive complimentary registration.*
 
-### CFP Timeline (Context from previous summit planning)
+### CFP Timeline
 
-To ensure high-quality content, the CFP process is formalized and rigorous. The timeline for the upcoming North America summit was extended (opening May 19th and running until the end of July) to avoid holidays and short deadlines previously experienced by the community.
+**2025 Maintainer Summit CFP Timeline:**  
+- **CFP Opens:** [To be announced; check back for updates or subscribe to CNCF communications]  
+- **CFP Closes:** [To be announced]  
+- **Notification of Acceptance:** [To be announced]
 
+_Note: In previous years, the CFP opened in mid-May and closed at the end of July to avoid holidays and short deadlines. The 2025 timeline will be announced soon and is expected to follow a similar schedule._
 ---
 
 ## Sponsorship and Acknowledgments
