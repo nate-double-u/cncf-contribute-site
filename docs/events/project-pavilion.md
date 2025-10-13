@@ -37,7 +37,7 @@ The Project Pavilion offers numerous benefits for attendees, whether they are ne
 
 ### Resources and Comfort
 
-*   **CNCF Staff Services:** CNCF staff always be working out of the Pavilion. This location is excellent for projects to sync up with CNCF project services to discuss topics like:
+*   **CNCF Staff Services:** CNCF staff will always be working out of the Pavilion. This location is excellent for projects to sync up with CNCF project services to discuss topics like:
     *   LFX Insights
     *   Conformance Programs
     *   Training Programs
