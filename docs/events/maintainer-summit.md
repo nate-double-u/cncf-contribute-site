@@ -30,7 +30,7 @@ The Maintainer Summit is **not an event for general attendance**. Attendance is 
 ### Eligible Attendees
 
 *   **Sandbox Project Maintainers**
-    > **Note:** Your GitHub handle MUST exist in the official `project-maintainers.csv` file.
+    *   *Note: Your GitHub handle MUST exist in the official [`project-maintainers.csv`](https://github.com/cncf/project-maintainers/blob/main/project-maintainers.csv) file (located in the CNCF GitHub organization). You can verify your inclusion by checking this file for your GitHub handle.*
 *   **Incubating Project Org Members**
 *   **Graduated Project Org Members**
 *   **CNCF TOC Members**
