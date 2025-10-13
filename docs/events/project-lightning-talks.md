@@ -1,3 +1,8 @@
+---
+title: Project Lightning Talks
+description: "The Hitchhiker's Guide to the CNCF Landscape" 
+---
+
 The Project Lightning Talks event at KubeCon + CloudNativeCon (KCCNC) is designed to serve as a **warm up** and a **good primer** for the main conference.
 
 ### Timing and Purpose
