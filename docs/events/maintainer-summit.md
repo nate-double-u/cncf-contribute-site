@@ -105,7 +105,7 @@ Sponsorship is essential to the event's sustainability, helping cover hard costs
 
 ### Current Sponsorship
 
-To secure your sponsorship for the Maintainer Summit, please contact **`sponsor@cncf.io`**. Signed contracts must be received by September 24, 2025.
+To secure your sponsorship for the Maintainer Summit, please contact **`sponsor@cncf.io`**. Signed contracts must be received by September 24, 2025 (for the 2025 event).
 
 ### Contact Information
 
