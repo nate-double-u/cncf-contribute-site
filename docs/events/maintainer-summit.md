@@ -75,7 +75,7 @@ Space is available for project teams to book rooms and have dedicated project me
 The summit provides opportunities to understand how the CNCF (TOC and TAGs) supports maintainer work.
 
 *   **TOC & Steering Committee:** There are opportunities, such as "Ask the Experts" sessions, to interface directly with the TOC and the Kubernetes Steering Committee.
-*   **TAG Reboot Initiative:** There will be dedicated sessions focusing on the Technical Advisory Group (TAG) reboot initiative. The TAG reboot initiative is a CNCF-wide effort to restructure and revitalize Technical Advisory Groups, aiming to improve leadership sustainability, address burnout, and attract new domain experts and contributors. For more details, see the [TAG Reboot Initiative overview](https://github.com/cncf/tag-reboot) or the [CNCF blog post](https://www.cncf.io/blog/2024/03/01/announcing-the-cncf-tag-reboot-initiative/).
+*   **TAG Reboot Initiative:** Dedicated sessions will focus on the CNCF-wide effort to restructure and revitalize Technical Advisory Groups, aiming to improve leadership sustainability, address burnout, and attract new domain experts and contributors. For more details, see the [TAG Reboot Initiative overview](https://github.com/cncf/tag-reboot) or the [CNCF blog post](https://www.cncf.io/blog/2024/03/01/announcing-the-cncf-tag-reboot-initiative/).
 *   **Future Leadership:** We are currently looking for **Program Chairs for future Maintainer Summits** (specifically 2026 and 2027). If you are interested in this role—which involves organizing content and working with the events team—please reach out.
 
 ---
