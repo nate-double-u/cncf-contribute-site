@@ -123,7 +123,7 @@ To secure your sponsorship for the Maintainer Summit, please contact **`sponsor@
 If you have questions, need assistance, or believe your registration was incorrectly denied, please reach out:
 
 *   **Email:** `ProjectsAtKubeCon@linuxfoundation.org`
-*   **Slack:** Ask a question on the **`#maintainer-summit`** Slack channel
+*   **Slack:** Ask a question on the **`#maintainer-summit`** channel in the CNCF Slack workspace
 
 ### Conduct
 
