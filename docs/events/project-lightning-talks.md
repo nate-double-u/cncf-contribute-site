@@ -5,6 +5,8 @@ description: "The Hitchhiker's Guide to the CNCF Landscape"
 
 The Project Lightning Talks event at KubeCon + CloudNativeCon (KCCNC) is designed to serve as a **warm up** and a **good primer** for the main conference.
 
+![pic](https://github.com/user-attachments/assets/7aa1afb9-6dbc-4f32-bbe2-9e43a3716f12)
+
 ### Timing and Purpose
 
 The lightning talks take place the **day before** KubeCon starts. They are typically scheduled right after registration. During the talks, the show floor is closed.
@@ -16,6 +18,8 @@ The talks are strongly recommended for **new attendees**, especially since over 
 *   **Presentation Style:** Each project gives a **7 minute presentation**. The lightning talks run continuously ("in perpetuity until we fall over"), with a new talk from a project starting every seven minutes.
 *   **Duration and Flexibility:** The talks **run all day**, allowing attendees to dip in and out at any time. The session is designed to have **chill vibes** (or "chillops"), meaning attendees do not have to commit to a time slot. If attendees are not enjoying a talk, they are free to leave and return later.
 *   **Content:** Most of the talks focus on **open source projects**. They encourage attendees to seek more information later at the **Project Pavilion** once the show floor is open.
+
+![pic](https://github.com/user-attachments/assets/0bbd8391-3869-4a50-9d91-aca9cbfdf319)
 
 ### Hosts and Theme
 
