@@ -31,7 +31,7 @@ The Project Pavilion offers numerous benefits for attendees, whether they are ne
 ### Learning and Guidance
 
 *   **First Time?:** KubeCon can be overwhelming, especially for new attendees. The Pavilion is a great place for first-timers to start their journey and, by interacting directly with projects and maintainers, get a grasp of the big picture.
-*   **Ambasador Tours:** CNCF Ambassadors are usually close by to help guide attendees. Tours are run daily (Wednesday, Thursday, and Friday), including a “safari tour” of the CNCF Landscape. These tours provide attendees with guidance and help them connect with important projects and people.
+*   **Ambassador Tours:** CNCF Ambassadors are usually close by to help guide attendees. Tours are run daily (Wednesday, Thursday, and Friday), including a “safari tour” of the CNCF Landscape. These tours provide attendees with guidance and help them connect with important projects and people.
 *   **Maintainer Demos and Unconference:** The revamped Pavilion includes an entire stage with screens and plenty of seating. This stage is exclusively for CNCF Maintainers to run additional demos and talks throughout the day, often featuring a demo every 20 minutes. The stage purposely runs as an unconference, allowing attendees to experience maintainers speaking passionately about their projects "live".
 *   **Ecosystem Lens:** The ultimate hope is that attendees see the Pavilion as a lens right into the cloud native ecosystem, encouraging them not just to observe but to participate and meet the people who are waiting to work with them.
 
