@@ -92,6 +92,14 @@ The CNCF TOC performs project health reviews when concerns arise or as part of t
 
 Health checks serve dual purposes: ensuring projects maintain CNCF standards and providing adopters with confidence in project maturity and sustainability.
 
+## Blog Submissions
+
+- Blogs are submitted via the issue template at .github/ISSUE_TEMPLATE/blog-post.yml
+- Reformat the submissions into proper markdown, with tables if necessary
+- Use docusaurus admonitions to keep the content visually fresh
+- Ensure all deadlines are highlighted appropriately
+- Generate a references section at the end of each one that organizes links from around the CNCF that has anything to do with the blog content
+
 ## Health Check Assessment Structure
 
 A comprehensive health check should evaluate projects across these dimensions:
