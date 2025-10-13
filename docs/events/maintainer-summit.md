@@ -110,7 +110,7 @@ Sponsorship is essential to the event's sustainability, helping cover hard costs
 
 ### Past Sponsors
 
-*   **GitHub** (Support Sponsor)
+To secure your sponsorship for the Maintainer Summit, please contact **`sponsor@cncf.io`**. Signed contracts must be received by the sponsorship deadline [date to be announced] for the current event year.
 *   **Red Hat** (Break and Reception Sponsor)
 *   **Microsoft Azure** (Break and Reception Sponsor)
 
