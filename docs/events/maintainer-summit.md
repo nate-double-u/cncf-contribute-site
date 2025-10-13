@@ -106,14 +106,16 @@ Sponsorship is essential to the event's sustainability, helping cover hard costs
 
 ### Past Sponsors
 
-To secure your sponsorship for the Maintainer Summit, please contact **`sponsor@cncf.io`**. Signed contracts must be received by the sponsorship deadline [date to be announced] for the current event year.
 *   **Red Hat** (Break and Reception Sponsor)
 *   **Microsoft Azure** (Break and Reception Sponsor)
 
 ### Current Sponsorship
 
-To secure your sponsorship for the Maintainer Summit, please contact **`sponsor@cncf.io`**. Signed contracts must be received by September 24, 2025 (for the 2025 event).
+Please see [How to Sponsor](#how-to-sponsor) for instructions. For the 2025 event, signed contracts must be received by **September 24, 2025**.
 
+### How to Sponsor
+
+To secure your sponsorship for the Maintainer Summit, please contact **`sponsor@cncf.io`**. Signed contracts must be received by the sponsorship deadline for the current event year. For specific deadlines, see the "Current Sponsorship" section.
 ### Contact Information
 
 If you have questions, need assistance, or believe your registration was incorrectly denied, please reach out:
