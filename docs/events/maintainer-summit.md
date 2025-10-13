@@ -25,7 +25,7 @@ _The following details are specific to the 2025 Maintainer Summit._
 
 ## Who Can Attend (Eligibility)
 
-The Maintainer Summit is **not an event for general attendance**. Attendance is limited to ensure active engagement due to limited space and the large number of CNCF Project Org members (over 7,500+).
+The Maintainer Summit is **not an event for general attendance**. Attendance is limited to ensure active engagement due to limited space and the rapidly growing number of CNCF Project Org members.
 
 ### Eligible Attendees
 
