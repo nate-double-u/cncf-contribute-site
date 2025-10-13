@@ -15,7 +15,7 @@ Programming is focused on sharing best practices, diving into contributing proce
 
 _The following details are specific to the 2025 Maintainer Summit._
 | Detail | Information | Context/Reference |
-| :--- | :--- | :--- |
+| --- | --- | --- |
 | **Date** | **Sunday, November 9, 2025** | One day prior to KubeCon + CloudNativeCon North America pre-event programming. The event is held on Sunday to avoid conflict with co-located event days. |
 | **Location** | **Atlanta, Georgia** | Georgia World Congress Center, Building B. 285 Andrew Young International Blvd NW, Atlanta, GA 30313. |
 | **Hashtag** | **#CNMaintainerSummit** | |
