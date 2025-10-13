@@ -17,3 +17,18 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
+
+awards:
+  label: Awards
+  permalink: /awards
+  description: CNCF Community Awards and recognition
+
+community:
+  label: Community
+  permalink: /community
+  description: CNCF community news and updates
+
+nominations:
+  label: Nominations
+  permalink: /nominations
+  description: Call for nominations and submissions
