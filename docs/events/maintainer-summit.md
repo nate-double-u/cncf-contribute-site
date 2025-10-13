@@ -44,7 +44,7 @@ Registration status will be placed into a pending queue for weekly review by CNC
 
 ### Sponsored Attendees
 
-Maintainers, TAG Leads, K8s SIG Leads, or WG Leads can sponsor someone who is not yet a GitHub org member to attend. If sponsoring an attendee, the sponsor must proactively contact `ProjectsAtKubeCon@linuxfoundation.org` with the individual’s details.
+Maintainers, TAG Leads, Kubernetes Special Interest Group Leads, or WG Leads can sponsor someone who is not yet a GitHub org member to attend. If sponsoring an attendee, the sponsor must proactively contact `ProjectsAtKubeCon@linuxfoundation.org` with the individual’s details.
 
 ---
 
