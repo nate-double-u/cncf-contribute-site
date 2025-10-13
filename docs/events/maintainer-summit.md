@@ -13,6 +13,7 @@ Programming is focused on sharing best practices, diving into contributing proce
 
 ## Event Details
 
+_The following details are specific to the 2025 Maintainer Summit._
 | Detail | Information | Context/Reference |
 | :--- | :--- | :--- |
 | **Date** | **Sunday, November 9, 2025** | One day prior to KubeCon + CloudNativeCon North America pre-event programming. The event is held on Sunday to avoid conflict with co-located event days. |
