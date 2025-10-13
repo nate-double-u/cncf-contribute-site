@@ -1,7 +1,7 @@
 name: Generate Docs PDF
 on:
   schedule:
-    - cron: "50 5 * * 0" # 5:50 UTC Weekly on Sundays
+    - cron: '50 5 * * 0' # 5:50 UTC Weekly on Sundays
   workflow_dispatch:
 
 jobs:
@@ -19,7 +19,9 @@ jobs:
           cd prince-15.4.1-linux-generic-x86_64
           yes "" | sudo ./install.sh
       - name: Build PDF
-        run: npx docusaurus-prince-pdf --toc -u https://contribute-cncf-io.netlify.app -o pdf/contribute.pdf
+        run:
+          npx docusaurus-prince-pdf --toc -u
+          https://contribute-cncf-io.netlify.app -o pdf/contribute.pdf
       - name: Upload results
         uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
         with:

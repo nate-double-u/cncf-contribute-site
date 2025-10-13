@@ -5,13 +5,18 @@ sidebar_label: Artificial Intelligence
 
 # Artificial Intelligence Technical Community Group
 
-The Artificial Intelligence Technical Community Group (AI TCG) brings together practitioners, researchers, and organizations working on AI and machine learning in cloud native environments. The group focuses on the unique challenges and opportunities of running AI/ML workloads at scale using cloud native technologies.
+The Artificial Intelligence Technical Community Group (AI TCG) brings together
+practitioners, researchers, and organizations working on AI and machine learning
+in cloud native environments. The group focuses on the unique challenges and
+opportunities of running AI/ML workloads at scale using cloud native
+technologies.
 
 ## Mission
 
 The AI TCG aims to:
 
-- Foster collaboration among practitioners working with AI/ML in cloud native environments
+- Foster collaboration among practitioners working with AI/ML in cloud native
+  environments
 - Share best practices for deploying and operating AI/ML workloads
 - Discuss infrastructure requirements and challenges for AI/ML systems
 - Explore emerging technologies and patterns in cloud native AI
@@ -22,42 +27,54 @@ The AI TCG aims to:
 
 The AI TCG discusses topics including:
 
-- **AI/ML Infrastructure** - Hardware acceleration (GPUs, TPUs), distributed training, inference serving
-- **Model Management** - Model versioning, deployment, monitoring, and lifecycle management
-- **Data Pipelines** - Data ingestion, preprocessing, feature stores, and data versioning
+- **AI/ML Infrastructure** - Hardware acceleration (GPUs, TPUs), distributed
+  training, inference serving
+- **Model Management** - Model versioning, deployment, monitoring, and lifecycle
+  management
+- **Data Pipelines** - Data ingestion, preprocessing, feature stores, and data
+  versioning
 - **MLOps** - CI/CD for ML, experiment tracking, model governance
-- **Scalability** - Distributed training, model serving at scale, resource optimization
-- **Edge AI** - Running AI/ML workloads at the edge with cloud native technologies
-- **AI/ML Frameworks** - Integration of frameworks like TensorFlow, PyTorch, JAX with cloud native platforms
-- **AI Security** - Securing AI/ML pipelines, model security, and privacy considerations
+- **Scalability** - Distributed training, model serving at scale, resource
+  optimization
+- **Edge AI** - Running AI/ML workloads at the edge with cloud native
+  technologies
+- **AI/ML Frameworks** - Integration of frameworks like TensorFlow, PyTorch, JAX
+  with cloud native platforms
+- **AI Security** - Securing AI/ML pipelines, model security, and privacy
+  considerations
 
 ## Meetings
 
 ### Regular Meetings
 
-- **Schedule**: Check the [CNCF Public Calendar](https://www.cncf.io/calendar/) for current meeting times
+- **Schedule**: Check the [CNCF Public Calendar](https://www.cncf.io/calendar/)
+  for current meeting times
 - **Format**: Virtual meetings via Zoom
-- **Recordings**: Available on the [CNCF YouTube Channel](https://www.youtube.com/c/cloudnativefdn)
+- **Recordings**: Available on the
+  [CNCF YouTube Channel](https://www.youtube.com/c/cloudnativefdn)
 
 ### Meeting Resources
 
-| Resource | Link |
-|----------|------|
-| Meeting Notes | [GitHub Repository or Google Docs] |
-| Meeting Agenda | Check Slack channel for agenda items |
-| Calendar | [CNCF Public Calendar](https://www.cncf.io/calendar/) |
+| Resource       | Link                                                  |
+| -------------- | ----------------------------------------------------- |
+| Meeting Notes  | [GitHub Repository or Google Docs]                    |
+| Meeting Agenda | Check Slack channel for agenda items                  |
+| Calendar       | [CNCF Public Calendar](https://www.cncf.io/calendar/) |
 
 ## Communication Channels
 
 ### Slack
 
-- **Channel**: `#tcg-ai` or `#tcg-artificial-intelligence` on [CNCF Slack](https://cloud-native.slack.com)
-- **Purpose**: General discussions, meeting announcements, questions, and knowledge sharing
+- **Channel**: `#tcg-ai` or `#tcg-artificial-intelligence` on
+  [CNCF Slack](https://cloud-native.slack.com)
+- **Purpose**: General discussions, meeting announcements, questions, and
+  knowledge sharing
 - **Join**: Get an invite at [slack.cncf.io](https://slack.cncf.io)
 
 ### Mailing List
 
-- **List**: Check the [CNCF TOC repository](https://github.com/cncf/toc) or Slack for mailing list information
+- **List**: Check the [CNCF TOC repository](https://github.com/cncf/toc) or
+  Slack for mailing list information
 - **Purpose**: Official TCG communications and announcements
 
 ### GitHub
@@ -67,16 +84,20 @@ The AI TCG discusses topics including:
 
 ## Leadership
 
-As a Technical Community Group, the AI TCG is organized by community volunteers who facilitate meetings and coordinate activities. Leadership is informal and community-driven.
+As a Technical Community Group, the AI TCG is organized by community volunteers
+who facilitate meetings and coordinate activities. Leadership is informal and
+community-driven.
 
 ## Current Activities
 
 The AI TCG facilitates:
 
 - **Knowledge Sharing** - Presentations and discussions from community members
-- **Use Case Studies** - Real-world examples of running AI/ML in cloud native environments
+- **Use Case Studies** - Real-world examples of running AI/ML in cloud native
+  environments
 - **Tool Evaluations** - Community reviews of AI/ML tools and platforms
-- **Best Practice Development** - Collaborative documentation of patterns and practices
+- **Best Practice Development** - Collaborative documentation of patterns and
+  practices
 - **Community Building** - Connecting practitioners across organizations
 
 ## Getting Involved
@@ -85,7 +106,8 @@ The AI TCG facilitates:
 
 1. Join the AI TCG channel on [CNCF Slack](https://slack.cncf.io)
 2. Subscribe to the mailing list (if available)
-3. Attend TCG meetings (check the [CNCF calendar](https://www.cncf.io/calendar/))
+3. Attend TCG meetings (check the
+   [CNCF calendar](https://www.cncf.io/calendar/))
 4. Introduce yourself and share your interests in AI/ML
 
 ### Participate
@@ -120,13 +142,15 @@ CNCF projects relevant to AI/ML workloads include:
 
 ## Resources
 
-| Resource | Description |
-|----------|-------------|
-| [CNCF TOC Repository](https://github.com/cncf/toc) | Main repository for CNCF governance |
-| [CNCF Slack](https://slack.cncf.io) | Join the AI TCG channel |
-| [CNCF Calendar](https://www.cncf.io/calendar/) | Find meeting times |
-| [CNCF Landscape](https://landscape.cncf.io/) | Discover relevant projects and tools |
+| Resource                                           | Description                          |
+| -------------------------------------------------- | ------------------------------------ |
+| [CNCF TOC Repository](https://github.com/cncf/toc) | Main repository for CNCF governance  |
+| [CNCF Slack](https://slack.cncf.io)                | Join the AI TCG channel              |
+| [CNCF Calendar](https://www.cncf.io/calendar/)     | Find meeting times                   |
+| [CNCF Landscape](https://landscape.cncf.io/)       | Discover relevant projects and tools |
 
 ## Future Direction
 
-The AI TCG may evolve into a more formal structure (such as a TAG) if the community grows and develops clear deliverables and scope. Community members are encouraged to participate in shaping the future direction of the group.
+The AI TCG may evolve into a more formal structure (such as a TAG) if the
+community grows and develops clear deliverables and scope. Community members are
+encouraged to participate in shaping the future direction of the group.

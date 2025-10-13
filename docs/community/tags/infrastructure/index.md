@@ -4,7 +4,9 @@ title: Infrastructure
 
 # TAG Infrastructure
 
-TAG Infrastructure develops and promotes practices, standards, and assessments for core cloud native infrastructure areas, enabling systems, applications, and architectures that are scalable, resilient, secure, and performant.
+TAG Infrastructure develops and promotes practices, standards, and assessments
+for core cloud native infrastructure areas, enabling systems, applications, and
+architectures that are scalable, resilient, secure, and performant.
 
 ## Mission
 
@@ -34,58 +36,71 @@ TAG Infrastructure focuses on:
 
 ### Regular Meetings
 
-- **Schedule**: Check the [CNCF Public Calendar](https://www.cncf.io/calendar/) for current meeting times
+- **Schedule**: Check the [CNCF Public Calendar](https://www.cncf.io/calendar/)
+  for current meeting times
 - **Format**: Virtual meetings via Zoom
-- **Recordings**: Available on the [CNCF YouTube Channel](https://www.youtube.com/c/cloudnativefdn)
+- **Recordings**: Available on the
+  [CNCF YouTube Channel](https://www.youtube.com/c/cloudnativefdn)
 
 ### Meeting Resources
 
-| Resource | Link |
-|----------|------|
-| Meeting Notes | [GitHub Repository](https://github.com/cncf/tag-infrastructure) |
+| Resource       | Link                                                               |
+| -------------- | ------------------------------------------------------------------ |
+| Meeting Notes  | [GitHub Repository](https://github.com/cncf/tag-infrastructure)    |
 | Meeting Agenda | [GitHub Issues](https://github.com/cncf/tag-infrastructure/issues) |
-| Calendar | [CNCF Public Calendar](https://www.cncf.io/calendar/) |
+| Calendar       | [CNCF Public Calendar](https://www.cncf.io/calendar/)              |
 
 ## Communication Channels
 
 ### Slack
 
-- **Channel**: `#tag-infrastructure` on [CNCF Slack](https://cloud-native.slack.com)
+- **Channel**: `#tag-infrastructure` on
+  [CNCF Slack](https://cloud-native.slack.com)
 - **Purpose**: General TAG discussions, questions, and announcements
 - **Join**: Get an invite at [slack.cncf.io](https://slack.cncf.io)
 
 ### Mailing List
 
-- **List**: [cncf-tag-infrastructure@lists.cncf.io](https://lists.cncf.io/g/cncf-tag-infrastructure)
+- **List**:
+  [cncf-tag-infrastructure@lists.cncf.io](https://lists.cncf.io/g/cncf-tag-infrastructure)
 - **Purpose**: Official TAG communications and announcements
 - **Archives**: [lists.cncf.io](https://lists.cncf.io/g/cncf-tag-infrastructure)
 
 ### GitHub
 
-- **Repository**: [github.com/cncf/tag-infrastructure](https://github.com/cncf/tag-infrastructure)
+- **Repository**:
+  [github.com/cncf/tag-infrastructure](https://github.com/cncf/tag-infrastructure)
 - **Purpose**: TAG governance, meeting notes, issues, and deliverables
 
 ## Leadership
 
-TAG Infrastructure is led by a team of Chairs and Tech Leads elected by the TAG's contributors:
+TAG Infrastructure is led by a team of Chairs and Tech Leads elected by the
+TAG's contributors:
 
-- **Chairs**: Coordinate TAG activities, facilitate meetings, and serve as liaisons to the TOC
+- **Chairs**: Coordinate TAG activities, facilitate meetings, and serve as
+  liaisons to the TOC
 - **Tech Leads**: Provide technical direction and oversee technical initiatives
 - **TOC Liaison**: TOC member(s) who facilitate communication with the TOC
 
-For the current list of TAG leadership, see the [TAG's GitHub repository](https://github.com/cncf/tag-infrastructure).
+For the current list of TAG leadership, see the
+[TAG's GitHub repository](https://github.com/cncf/tag-infrastructure).
 
 ## Current Initiatives
 
-TAG Infrastructure sponsors various initiatives and working groups focused on specific infrastructure domains. Visit the [TAG's GitHub repository](https://github.com/cncf/tag-infrastructure) for current initiatives.
+TAG Infrastructure sponsors various initiatives and working groups focused on
+specific infrastructure domains. Visit the
+[TAG's GitHub repository](https://github.com/cncf/tag-infrastructure) for
+current initiatives.
 
 ## Getting Involved
 
 ### Join the Conversation
 
 1. Join the `#tag-infrastructure` channel on [CNCF Slack](https://slack.cncf.io)
-2. Subscribe to the [mailing list](https://lists.cncf.io/g/cncf-tag-infrastructure)
-3. Attend TAG meetings (check the [CNCF calendar](https://www.cncf.io/calendar/))
+2. Subscribe to the
+   [mailing list](https://lists.cncf.io/g/cncf-tag-infrastructure)
+3. Attend TAG meetings (check the
+   [CNCF calendar](https://www.cncf.io/calendar/))
 4. Follow the [GitHub repository](https://github.com/cncf/tag-infrastructure)
 
 ### Contribute
@@ -110,9 +125,9 @@ To propose a new initiative or working group:
 
 ## Resources
 
-| Resource | Description |
-|----------|-------------|
-| [TAG Charter](https://github.com/cncf/tag-infrastructure/blob/main/charter.md) | Official TAG charter and scope |
-| [GitHub Repository](https://github.com/cncf/tag-infrastructure) | Main TAG repository |
-| [CNCF Slack](https://slack.cncf.io) | Join the #tag-infrastructure channel |
-| [Mailing List](https://lists.cncf.io/g/cncf-tag-infrastructure) | Subscribe to TAG communications |
+| Resource                                                                       | Description                          |
+| ------------------------------------------------------------------------------ | ------------------------------------ |
+| [TAG Charter](https://github.com/cncf/tag-infrastructure/blob/main/charter.md) | Official TAG charter and scope       |
+| [GitHub Repository](https://github.com/cncf/tag-infrastructure)                | Main TAG repository                  |
+| [CNCF Slack](https://slack.cncf.io)                                            | Join the #tag-infrastructure channel |
+| [Mailing List](https://lists.cncf.io/g/cncf-tag-infrastructure)                | Subscribe to TAG communications      |

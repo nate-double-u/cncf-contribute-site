@@ -4,7 +4,10 @@ title: Operational Resilience
 
 # TAG Operational Resilience
 
-TAG Operational Resilience is dedicated to developing and promoting best practices for operational resilience, reliability, and availability in cloud native systems. The TAG focuses on observability, chaos engineering, incident response, and related operational practices.
+TAG Operational Resilience is dedicated to developing and promoting best
+practices for operational resilience, reliability, and availability in cloud
+native systems. The TAG focuses on observability, chaos engineering, incident
+response, and related operational practices.
 
 ## Mission
 
@@ -12,7 +15,8 @@ The mission of TAG Operational Resilience is to:
 
 - Define and promote best practices for cloud native operational resilience
 - Develop frameworks for assessing and improving system reliability
-- Foster collaboration between observability, reliability, and operations projects
+- Foster collaboration between observability, reliability, and operations
+  projects
 - Provide guidance on incident management and response
 - Promote chaos engineering and resilience testing practices
 - Support the development of standards for operational excellence
@@ -35,50 +39,62 @@ TAG Operational Resilience focuses on:
 
 ### Regular Meetings
 
-- **Schedule**: Check the [CNCF Public Calendar](https://www.cncf.io/calendar/) for current meeting times
+- **Schedule**: Check the [CNCF Public Calendar](https://www.cncf.io/calendar/)
+  for current meeting times
 - **Format**: Virtual meetings via Zoom
-- **Recordings**: Available on the [CNCF YouTube Channel](https://www.youtube.com/c/cloudnativefdn)
+- **Recordings**: Available on the
+  [CNCF YouTube Channel](https://www.youtube.com/c/cloudnativefdn)
 
 ### Meeting Resources
 
-| Resource | Link |
-|----------|------|
-| Meeting Notes | [GitHub Repository](https://github.com/cncf/tag-operational-resilience) |
+| Resource       | Link                                                                       |
+| -------------- | -------------------------------------------------------------------------- |
+| Meeting Notes  | [GitHub Repository](https://github.com/cncf/tag-operational-resilience)    |
 | Meeting Agenda | [GitHub Issues](https://github.com/cncf/tag-operational-resilience/issues) |
-| Calendar | [CNCF Public Calendar](https://www.cncf.io/calendar/) |
+| Calendar       | [CNCF Public Calendar](https://www.cncf.io/calendar/)                      |
 
 ## Communication Channels
 
 ### Slack
 
-- **Channel**: `#tag-operational-resilience` on [CNCF Slack](https://cloud-native.slack.com)
+- **Channel**: `#tag-operational-resilience` on
+  [CNCF Slack](https://cloud-native.slack.com)
 - **Purpose**: General TAG discussions, questions, and announcements
 - **Join**: Get an invite at [slack.cncf.io](https://slack.cncf.io)
 
 ### Mailing List
 
-- **List**: [cncf-tag-operational-resilience@lists.cncf.io](https://lists.cncf.io/g/cncf-tag-operational-resilience)
+- **List**:
+  [cncf-tag-operational-resilience@lists.cncf.io](https://lists.cncf.io/g/cncf-tag-operational-resilience)
 - **Purpose**: Official TAG communications and announcements
-- **Archives**: [lists.cncf.io](https://lists.cncf.io/g/cncf-tag-operational-resilience)
+- **Archives**:
+  [lists.cncf.io](https://lists.cncf.io/g/cncf-tag-operational-resilience)
 
 ### GitHub
 
-- **Repository**: [github.com/cncf/tag-operational-resilience](https://github.com/cncf/tag-operational-resilience)
+- **Repository**:
+  [github.com/cncf/tag-operational-resilience](https://github.com/cncf/tag-operational-resilience)
 - **Purpose**: TAG governance, meeting notes, issues, and deliverables
 
 ## Leadership
 
-TAG Operational Resilience is led by a team of Chairs and Tech Leads elected by the TAG's contributors:
+TAG Operational Resilience is led by a team of Chairs and Tech Leads elected by
+the TAG's contributors:
 
-- **Chairs**: Coordinate TAG activities, facilitate meetings, and serve as liaisons to the TOC
+- **Chairs**: Coordinate TAG activities, facilitate meetings, and serve as
+  liaisons to the TOC
 - **Tech Leads**: Provide technical direction and oversee technical initiatives
 - **TOC Liaison**: TOC member(s) who facilitate communication with the TOC
 
-For the current list of TAG leadership, see the [TAG's GitHub repository](https://github.com/cncf/tag-operational-resilience).
+For the current list of TAG leadership, see the
+[TAG's GitHub repository](https://github.com/cncf/tag-operational-resilience).
 
 ## Current Initiatives
 
-TAG Operational Resilience sponsors various initiatives and working groups focused on specific aspects of operational resilience. Visit the [TAG's GitHub repository](https://github.com/cncf/tag-operational-resilience) for current initiatives.
+TAG Operational Resilience sponsors various initiatives and working groups
+focused on specific aspects of operational resilience. Visit the
+[TAG's GitHub repository](https://github.com/cncf/tag-operational-resilience)
+for current initiatives.
 
 ## Key Deliverables
 
@@ -94,10 +110,14 @@ The TAG produces various resources to help the community:
 
 ### Join the Conversation
 
-1. Join the `#tag-operational-resilience` channel on [CNCF Slack](https://slack.cncf.io)
-2. Subscribe to the [mailing list](https://lists.cncf.io/g/cncf-tag-operational-resilience)
-3. Attend TAG meetings (check the [CNCF calendar](https://www.cncf.io/calendar/))
-4. Follow the [GitHub repository](https://github.com/cncf/tag-operational-resilience)
+1. Join the `#tag-operational-resilience` channel on
+   [CNCF Slack](https://slack.cncf.io)
+2. Subscribe to the
+   [mailing list](https://lists.cncf.io/g/cncf-tag-operational-resilience)
+3. Attend TAG meetings (check the
+   [CNCF calendar](https://www.cncf.io/calendar/))
+4. Follow the
+   [GitHub repository](https://github.com/cncf/tag-operational-resilience)
 
 ### Contribute
 
@@ -121,9 +141,9 @@ To propose a new initiative or working group:
 
 ## Resources
 
-| Resource | Description |
-|----------|-------------|
-| [TAG Charter](https://github.com/cncf/tag-operational-resilience/blob/main/charter.md) | Official TAG charter and scope |
-| [GitHub Repository](https://github.com/cncf/tag-operational-resilience) | Main TAG repository |
-| [CNCF Slack](https://slack.cncf.io) | Join the #tag-operational-resilience channel |
-| [Mailing List](https://lists.cncf.io/g/cncf-tag-operational-resilience) | Subscribe to TAG communications |
+| Resource                                                                               | Description                                  |
+| -------------------------------------------------------------------------------------- | -------------------------------------------- |
+| [TAG Charter](https://github.com/cncf/tag-operational-resilience/blob/main/charter.md) | Official TAG charter and scope               |
+| [GitHub Repository](https://github.com/cncf/tag-operational-resilience)                | Main TAG repository                          |
+| [CNCF Slack](https://slack.cncf.io)                                                    | Join the #tag-operational-resilience channel |
+| [Mailing List](https://lists.cncf.io/g/cncf-tag-operational-resilience)                | Subscribe to TAG communications              |

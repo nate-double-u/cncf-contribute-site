@@ -5,32 +5,46 @@ sidebar_position: 2
 
 # CNCF Governance
 
-The Cloud Native Computing Foundation (CNCF) operates under a comprehensive governance structure designed to support the cloud native ecosystem. This section provides information about CNCF's technical governance framework and processes.
+The Cloud Native Computing Foundation (CNCF) operates under a comprehensive
+governance structure designed to support the cloud native ecosystem. This
+section provides information about CNCF's technical governance framework and
+processes.
 
 ## Overview
 
-CNCF's technical governance is structured to enable effective collaboration while maintaining project quality and community health. The governance framework includes policies, procedures, and guidelines that help maintain the integrity and direction of cloud native computing.
+CNCF's technical governance is structured to enable effective collaboration
+while maintaining project quality and community health. The governance framework
+includes policies, procedures, and guidelines that help maintain the integrity
+and direction of cloud native computing.
 
 ## Governance Documents
 
-This section contains key governance documents that outline how CNCF technical groups operate:
+This section contains key governance documents that outline how CNCF technical
+groups operate:
 
 ### Technical Group Governance
 
-The [Technical Group Governance](tech-group-governance.md) document defines the structure and responsibilities of CNCF technical groups, including:
+The [Technical Group Governance](tech-group-governance.md) document defines the
+structure and responsibilities of CNCF technical groups, including:
 
-- **Technical Advisory Groups (TAGs)** - Primary organizational units aligned with industry problem domains
+- **Technical Advisory Groups (TAGs)** - Primary organizational units aligned
+  with industry problem domains
 - **Subprojects** - Ongoing projects as part of a TAG or the TOC
 - **Initiatives** - Tightly scoped, time-bound work items
-- **Community Groups** - Topic-focused groups for knowledge sharing and coordination
+- **Community Groups** - Topic-focused groups for knowledge sharing and
+  coordination
 
 ### Remediation Process
 
-The [Governance Remediation Process](gov-remediation-process.md) outlines procedures for addressing governance issues and concerns within CNCF technical groups.
+The [Governance Remediation Process](gov-remediation-process.md) outlines
+procedures for addressing governance issues and concerns within CNCF technical
+groups.
 
 ### Technical Leadership Principles
 
-The [Technical Leadership Principles Guidance](tech-leadership-principles-guidance.md) provides guidance for technical leaders across CNCF projects and groups.
+The
+[Technical Leadership Principles Guidance](tech-leadership-principles-guidance.md)
+provides guidance for technical leaders across CNCF projects and groups.
 
 ## Key Principles
 
@@ -53,6 +67,9 @@ To participate in CNCF governance:
 
 ## Resources
 
-- [CNCF TOC GitHub Repository](https://github.com/cncf/toc) - Technical Oversight Committee documentation
-- [CNCF Community Repository](https://github.com/cncf/community) - Community-wide resources
-- [CNCF Charter](https://github.com/cncf/foundation/blob/main/charter.md) - Foundation charter and bylaws
+- [CNCF TOC GitHub Repository](https://github.com/cncf/toc) - Technical
+  Oversight Committee documentation
+- [CNCF Community Repository](https://github.com/cncf/community) -
+  Community-wide resources
+- [CNCF Charter](https://github.com/cncf/foundation/blob/main/charter.md) -
+  Foundation charter and bylaws

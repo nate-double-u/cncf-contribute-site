@@ -4,7 +4,10 @@ title: Workloads Foundation
 
 # TAG Workloads Foundation
 
-TAG Workloads Foundation focuses on the development and standardization of cloud native workloads and applications. The TAG addresses application patterns, runtime environments, and foundational technologies that support cloud native workloads.
+TAG Workloads Foundation focuses on the development and standardization of cloud
+native workloads and applications. The TAG addresses application patterns,
+runtime environments, and foundational technologies that support cloud native
+workloads.
 
 ## Mission
 
@@ -35,77 +38,98 @@ TAG Workloads Foundation focuses on:
 
 ### Regular Meetings
 
-- **Schedule**: Check the [CNCF Public Calendar](https://www.cncf.io/calendar/) for current meeting times
+- **Schedule**: Check the [CNCF Public Calendar](https://www.cncf.io/calendar/)
+  for current meeting times
 - **Format**: Virtual meetings via Zoom
-- **Recordings**: Available on the [CNCF YouTube Channel](https://www.youtube.com/c/cloudnativefdn)
+- **Recordings**: Available on the
+  [CNCF YouTube Channel](https://www.youtube.com/c/cloudnativefdn)
 
 ### Meeting Resources
 
-| Resource | Link |
-|----------|------|
-| Meeting Notes | [GitHub Repository](https://github.com/cncf/tag-workloads-foundation) |
+| Resource       | Link                                                                     |
+| -------------- | ------------------------------------------------------------------------ |
+| Meeting Notes  | [GitHub Repository](https://github.com/cncf/tag-workloads-foundation)    |
 | Meeting Agenda | [GitHub Issues](https://github.com/cncf/tag-workloads-foundation/issues) |
-| Calendar | [CNCF Public Calendar](https://www.cncf.io/calendar/) |
+| Calendar       | [CNCF Public Calendar](https://www.cncf.io/calendar/)                    |
 
 ## Communication Channels
 
 ### Slack
 
-- **Channel**: `#tag-workloads-foundation` on [CNCF Slack](https://cloud-native.slack.com)
+- **Channel**: `#tag-workloads-foundation` on
+  [CNCF Slack](https://cloud-native.slack.com)
 - **Purpose**: General TAG discussions, questions, and announcements
 - **Join**: Get an invite at [slack.cncf.io](https://slack.cncf.io)
 
 ### Mailing List
 
-- **List**: [cncf-tag-workloads-foundation@lists.cncf.io](https://lists.cncf.io/g/cncf-tag-workloads-foundation)
+- **List**:
+  [cncf-tag-workloads-foundation@lists.cncf.io](https://lists.cncf.io/g/cncf-tag-workloads-foundation)
 - **Purpose**: Official TAG communications and announcements
-- **Archives**: [lists.cncf.io](https://lists.cncf.io/g/cncf-tag-workloads-foundation)
+- **Archives**:
+  [lists.cncf.io](https://lists.cncf.io/g/cncf-tag-workloads-foundation)
 
 ### GitHub
 
-- **Repository**: [github.com/cncf/tag-workloads-foundation](https://github.com/cncf/tag-workloads-foundation)
+- **Repository**:
+  [github.com/cncf/tag-workloads-foundation](https://github.com/cncf/tag-workloads-foundation)
 - **Purpose**: TAG governance, meeting notes, issues, and deliverables
 
 ## Leadership
 
-TAG Workloads Foundation is led by a team of Chairs and Tech Leads elected by the TAG's contributors:
+TAG Workloads Foundation is led by a team of Chairs and Tech Leads elected by
+the TAG's contributors:
 
-- **Chairs**: Coordinate TAG activities, facilitate meetings, and serve as liaisons to the TOC
+- **Chairs**: Coordinate TAG activities, facilitate meetings, and serve as
+  liaisons to the TOC
 - **Tech Leads**: Provide technical direction and oversee technical initiatives
 - **TOC Liaison**: TOC member(s) who facilitate communication with the TOC
 
-For the current list of TAG leadership, see the [TAG's GitHub repository](https://github.com/cncf/tag-workloads-foundation).
+For the current list of TAG leadership, see the
+[TAG's GitHub repository](https://github.com/cncf/tag-workloads-foundation).
 
 ## Current Initiatives
 
-TAG Workloads Foundation sponsors various initiatives and working groups focused on specific workload domains. Visit the [TAG's GitHub repository](https://github.com/cncf/tag-workloads-foundation) for current initiatives.
+TAG Workloads Foundation sponsors various initiatives and working groups focused
+on specific workload domains. Visit the
+[TAG's GitHub repository](https://github.com/cncf/tag-workloads-foundation) for
+current initiatives.
 
 ## Key Focus Areas
 
 ### Application Portability
 
-Working to ensure applications can run across different cloud native platforms with minimal modification.
+Working to ensure applications can run across different cloud native platforms
+with minimal modification.
 
 ### Workload Specifications
 
-Developing and standardizing specifications for defining cloud native workloads, including APIs and data formats.
+Developing and standardizing specifications for defining cloud native workloads,
+including APIs and data formats.
 
 ### Runtime Environments
 
-Evaluating and promoting best practices for application runtime environments, including container runtimes, WebAssembly, and specialized workload runtimes.
+Evaluating and promoting best practices for application runtime environments,
+including container runtimes, WebAssembly, and specialized workload runtimes.
 
 ### Application Patterns
 
-Documenting and promoting common patterns for building cloud native applications, including microservices, event-driven architectures, and serverless patterns.
+Documenting and promoting common patterns for building cloud native
+applications, including microservices, event-driven architectures, and
+serverless patterns.
 
 ## Getting Involved
 
 ### Join the Conversation
 
-1. Join the `#tag-workloads-foundation` channel on [CNCF Slack](https://slack.cncf.io)
-2. Subscribe to the [mailing list](https://lists.cncf.io/g/cncf-tag-workloads-foundation)
-3. Attend TAG meetings (check the [CNCF calendar](https://www.cncf.io/calendar/))
-4. Follow the [GitHub repository](https://github.com/cncf/tag-workloads-foundation)
+1. Join the `#tag-workloads-foundation` channel on
+   [CNCF Slack](https://slack.cncf.io)
+2. Subscribe to the
+   [mailing list](https://lists.cncf.io/g/cncf-tag-workloads-foundation)
+3. Attend TAG meetings (check the
+   [CNCF calendar](https://www.cncf.io/calendar/))
+4. Follow the
+   [GitHub repository](https://github.com/cncf/tag-workloads-foundation)
 
 ### Contribute
 
@@ -130,9 +154,9 @@ To propose a new initiative or working group:
 
 ## Resources
 
-| Resource | Description |
-|----------|-------------|
-| [TAG Charter](https://github.com/cncf/tag-workloads-foundation/blob/main/charter.md) | Official TAG charter and scope |
-| [GitHub Repository](https://github.com/cncf/tag-workloads-foundation) | Main TAG repository |
-| [CNCF Slack](https://slack.cncf.io) | Join the #tag-workloads-foundation channel |
-| [Mailing List](https://lists.cncf.io/g/cncf-tag-workloads-foundation) | Subscribe to TAG communications |
+| Resource                                                                             | Description                                |
+| ------------------------------------------------------------------------------------ | ------------------------------------------ |
+| [TAG Charter](https://github.com/cncf/tag-workloads-foundation/blob/main/charter.md) | Official TAG charter and scope             |
+| [GitHub Repository](https://github.com/cncf/tag-workloads-foundation)                | Main TAG repository                        |
+| [CNCF Slack](https://slack.cncf.io)                                                  | Join the #tag-workloads-foundation channel |
+| [Mailing List](https://lists.cncf.io/g/cncf-tag-workloads-foundation)                | Subscribe to TAG communications            |
