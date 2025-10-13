@@ -1,6 +1,7 @@
 ---
 title: Welcome to the TOC
 sidebar_label: TOC Onboarding
+sidebar_position: 1
 ---
 
 # Welcome to the TOC!

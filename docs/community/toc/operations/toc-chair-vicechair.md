@@ -1,5 +1,6 @@
 ---
 title: TOC Chair and Vice Chair
+sidebar_position: 5
 ---
 
 # TOC Chair and Vice Chair

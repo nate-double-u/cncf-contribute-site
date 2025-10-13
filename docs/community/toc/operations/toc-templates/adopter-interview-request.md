@@ -1,5 +1,6 @@
 ---
-title: "TEMPLATE: Adopter Interview Request"
+title: "Adopter Interview Request"
+description: Adopter interview e-mail request template
 ---
 
 # Adopter Interview Request

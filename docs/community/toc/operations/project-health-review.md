@@ -1,5 +1,6 @@
 ---
 title: Project Health Review
+sidebar_position: 3
 ---
 
 # Project Health Reviews

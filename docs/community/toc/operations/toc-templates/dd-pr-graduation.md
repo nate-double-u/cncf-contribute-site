@@ -1,5 +1,6 @@
 ---
-title: "TEMPLATE: Graduation DD"
+title: "Graduation DD"
+description: Graduation Due Diligence PR template
 ---
 
 # $PROJECT Graduation Due Diligence
