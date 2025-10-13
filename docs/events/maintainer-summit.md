@@ -101,7 +101,7 @@ _Note: The CFP timeline is maintained at the official CNCF event website. Please
 - **CFP Closes:** [To be announced]  
 - **Notification of Acceptance:** [To be announced]
 
-_Note: In previous years, the CFP opened in mid-May and closed at the end of July to avoid holidays and short deadlines. The 2025 timeline will be announced soon and is expected to follow a similar schedule._
+_Note: In previous years, the CFP opened in mid-May and closed at the end of July to avoid holidays and short deadlines. The timeline for each year's summit typically follows a similar schedule; please check back for the most current dates and updates._
 ---
 
 ## Sponsorship and Acknowledgments
