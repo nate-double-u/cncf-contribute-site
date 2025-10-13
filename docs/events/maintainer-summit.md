@@ -80,7 +80,7 @@ The summit provides opportunities to understand how the CNCF (TOC and TAGs) supp
 
 *   Incubating Project GitHub Org Members
 *   Graduated Project GitHub Org Members
-*   CNCF TAG Leads & the CNCF TOC
+*   CNCF TAG Leads & CNCF TOC Members
 
 ### Speaker Registration Benefits
 
