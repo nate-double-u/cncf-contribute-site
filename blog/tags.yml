@@ -17,3 +17,18 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
+
+kubecon:
+  label: KubeCon
+  permalink: /kubecon
+  description: KubeCon + CloudNativeCon event coverage
+
+events:
+  label: Events
+  permalink: /events
+  description: CNCF and community events
+
+project-pavilion:
+  label: Project Pavilion
+  permalink: /project-pavilion
+  description: Project Pavilion kiosk information and updates
