@@ -98,7 +98,6 @@ Accepted speakers who submitted via the CFP process will receive an **“All-Acc
 - **Notification of Acceptance:** See the official [CFP timeline here](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/cfp/)
 
 _Note: The CFP timeline is maintained at the official CNCF event website. Please refer to the [CFP timeline](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/cfp/) for the most up-to-date information. In previous years, the CFP opened in mid-May and closed at the end of July to avoid holidays and short deadlines. The timeline for each year's summit typically follows a similar schedule; please check back for the most current dates and updates._
----
 
 ## Sponsorship and Acknowledgments
 
