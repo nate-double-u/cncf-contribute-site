@@ -51,8 +51,6 @@ Maintainers, TAG Leads, K8s SIG Leads, or WG Leads can sponsor someone who is no
 
 The summit program includes curated content chosen via a formal CFP process, as well as community-driven unconference sessions.
 
-**View the Full Maintainer Summit Schedule**.
-
 ### Unconference Sessions
 
 The unconference is a fundamental part of the summit, where **attendees are in the driver’s seat**.
