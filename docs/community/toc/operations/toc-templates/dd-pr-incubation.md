@@ -1,5 +1,6 @@
 ---
-title: "TEMPLATE: Incubation DD"
+title: "Incubation DD"
+description: Incubation Due Diligence PR template
 ---
 
 # $PROJECT Incubation Due Diligence

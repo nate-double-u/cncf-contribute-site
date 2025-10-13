@@ -1,5 +1,6 @@
 ---
 title: TOC Decision Making Process
+sidebar_position: 2
 ---
 
 # TOC Decision Making Process

@@ -1,5 +1,6 @@
 ---
-title: "TEMPLATE: Kickoff Notes"
+title: "Kickoff Notes"
+description: Notes template for starting DD process
 ---
 
 # $PROJECT $APPLICATIONLEVEL Kick-off & Meeting notes

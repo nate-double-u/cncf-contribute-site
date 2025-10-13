@@ -1,5 +1,6 @@
 ---
 title: TOC Due Diligence Guide
+sidebar_position: 3
 ---
 
 # TOC Due Diligence Guide

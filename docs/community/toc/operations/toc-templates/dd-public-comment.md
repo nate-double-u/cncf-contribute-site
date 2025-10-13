@@ -1,5 +1,6 @@
 ---
-title: "TEMPLATE: Public Comment Message"
+title: "Public Comment Message"
+description: Public comment email announcement template
 ---
 
 # Public Comment Message Template

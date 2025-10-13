@@ -1,5 +1,6 @@
 ---
-title: "TEMPLATE: Adopter Interview Questions"
+title: "Adopter Interview Questions"
+description: Adopter interview questionnaire 
 ---
 
 # Adopter Interview Questions
