@@ -19,7 +19,7 @@ To define and advance practices and standards for fundamental cloud native workl
 
 | Name | GitHub | Organization | Term |
 |------|--------|--------------|------|
-| Danielle Tal | [@miao0miao](https://github.com/miao0miao) | Microsoft | 2025-07-01 to 2026-06-30 |
+| Danielle Tal | [@miao0miao](https://github.com/miao0miao) | - | 2025-07-01 to 2026-06-30 |
 | Paco Xu | [@pacoxu](https://github.com/pacoxu) | DaoCloud | 2025-07-01 to 2027-06-30 |
 | Yuan Tang | [@terrytangyuan](https://github.com/terrytangyuan) | Red Hat | 2025-07-01 to 2027-06-30 |
 
