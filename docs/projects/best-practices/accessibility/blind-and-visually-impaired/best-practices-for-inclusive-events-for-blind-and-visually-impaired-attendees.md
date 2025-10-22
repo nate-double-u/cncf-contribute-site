@@ -11,7 +11,7 @@ This guide is designed to illuminate the unique experiences of blind and visuall
 Consider attending a conference where you need to navigate unfamiliar spaces—from finding accessible restrooms and maneuvering buffet lines to locating your hotel room in a bustling hallway—where visual presentations lack description, and where meeting new people means missing the subtle visual cues that help others gauge interest, availability, or conversational flow. For blind and visually impaired attendees, these situations require additional mental energy and strategies. When there are clear verbal descriptions, accessible materials, and navigation support, you enable talented professionals to focus on what they came to do: learn, teach, and connect.  
 We recognize that creating truly accessible events involves coordination, planning, and resources. You're already managing countless moving parts—venue logistics, speaker coordination, catering, technology setup, and sponsor relationships. Adding accessibility considerations means learning new requirements, building relationships with specialized service providers, training staff on unfamiliar protocols, and often working within budget constraints that weren't designed with these needs in mind. It can feel overwhelming to ensure you're getting it right when the stakes matter so much to the people you're trying to serve. We deeply appreciate organizers who choose to take on this challenge—your commitment to inclusion makes a meaningful difference in people's careers and professional lives\!  
 This investment primarily creates value for blind and visually impaired participants by removing barriers to participation. These improvements can also provide secondary benefits, such as clearer communication for attendees whose first language isn't English.  
-This guide provides practical approaches that work within real-world constraints while meaningfully improving accessibility. We also include a [comprehensive checklist](http://localhost:3000/projects/best-practices/accessibility/blind-and-visually-impaired/) to help you implement these practices systematically—because accessibility works best when it's planned, not improvised.
+This guide provides practical approaches that work within real-world constraints while meaningfully improving accessibility. We also include a [comprehensive checklist](https://docs.google.com/spreadsheets/d/1tCkmOZA5Xji42vN2bxozWO7JtNRI7bcIBMEao2b14aA/edit?gid=0#gid=0) to help you implement these practices systematically—because accessibility works best when it's planned, not improvised.
 
 Thank you for your interest\! Please visit the \#blind-and-visually-impaired  channel on the CNCF slack if you have any questions.
 
@@ -35,9 +35,9 @@ Many organizations find success with accessibility sponsorship opportunities, wh
 
 ## Accessibility Implementation Checklist
 
-To help you systematically implement these practices, we've created a [checklist](http://localhost:3000/projects/best-practices/accessibility/blind-and-visually-impaired/) covering planning, execution, and follow-up phases.
+To help you systematically implement these practices, we've created a [checklist](https://docs.google.com/spreadsheets/d/1tCkmOZA5Xji42vN2bxozWO7JtNRI7bcIBMEao2b14aA/edit?gid=0#gid=0) covering planning, execution, and follow-up phases.
 
-While this document provides the context and reasoning behind each recommendation, the checklist provides key reminders that you can adapt to your event's specific size, format, and constraints while maintaining core accessibility principles. Copy the [checklist](http://localhost:3000/projects/best-practices/accessibility/blind-and-visually-impaired/) and use it for your own event.
+While this document provides the context and reasoning behind each recommendation, the checklist provides key reminders that you can adapt to your event's specific size, format, and constraints while maintaining core accessibility principles. Copy the [checklist](https://docs.google.com/spreadsheets/d/1tCkmOZA5Xji42vN2bxozWO7JtNRI7bcIBMEao2b14aA/edit?gid=0#gid=0) and use it for your own event.
 
 ---
 
