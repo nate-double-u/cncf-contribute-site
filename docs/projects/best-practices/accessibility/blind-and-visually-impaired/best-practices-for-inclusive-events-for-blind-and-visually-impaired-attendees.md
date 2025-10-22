@@ -21,11 +21,11 @@ Thank you for your interest\! Please visit the \#blind-and-visually-impaired  ch
 
 Include accessibility accommodations in your conference budget from the start, alongside audio/video equipment, catering, and other essential services. Planning accessibility retroactively—after receiving specific requests—often means insufficient funds or lead time to provide meaningful accommodations.  
 Accessibility costs vary depending on your event's size and scope, but typical considerations include:  
-• Professional transcription and alt-text services  
-•Sighted guide coordination or volunteer programs    
-•Enhanced digital accessibility (screen reader testing, accessible document formats)  
-•Accessible transportation and lodging guidance  
-•Tactile materials or audio descriptions for key visual content
+* Professional transcription and alt-text services  
+* Sighted guide coordination or volunteer programs    
+* Enhanced digital accessibility (screen reader testing, accessible document formats)  
+* Accessible transportation and lodging guidance  
+* Tactile materials or audio descriptions for key visual content
 
 Consider appointing a dedicated accessibility coordinator who can serve as a consistent point of contact for attendees with disability needs before, during, and after your event. This person should understand available resources and be empowered to make accommodation decisions quickly.
 
@@ -110,7 +110,7 @@ While this document provides the context and reasoning behind each recommendatio
 
 * **Navigation Services**: Collaborate with Aira Explorer or similar services; supply them with up-to-date venue and schedule data for remote assistance. Promote these options in pre-event materials so VI attendees can plan to use them.  
 * **Assistive Tech Compatibility**: Test all event-related apps, websites, and digital resources (e.g., event apps, session feedback forms) with screen readers and keyboard navigation. Engage VI users in testing phases for authentic feedback.  
-* **Assistive TechAwareness/training**: If A/V staff have some awareness of assistive technology, aiding VI presenters will be more fluid and less mysterious. Having general assistive technology assistance on-site can help attendees overcome unforeseen issues.
+* **Assistive Tech Awareness/training**: If A/V staff have some awareness of assistive technology, aiding VI presenters will be more fluid and less mysterious. Having general assistive technology assistance on-site can help attendees overcome unforeseen issues.
 
 ### AI and Automated Descriptions
 
