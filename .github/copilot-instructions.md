@@ -63,17 +63,6 @@ Be very strict with the instructions in this section:
 - Always ensure that the vocabulary and definitions for everything you create match the official definitions in @cncf/glossary
 - Use https://github.com/cncf/toc/blob/main/tags.yaml as the source of truth for individuals who participate in CNCF activities. When modifying any page that lists people, positions, or affiliations, verify against this file and update the page accordingly; if the upstream data is outdated, also submit a PR to @cncf/toc to correct it. 
 
-## Broken Link Fixes
-
-When assigned an issue with the `broken-link` label, follow these rules:
-
-- **One PR per page.** Group all broken link fixes for a single file into one pull request. Do not combine fixes across multiple files into a single PR.
-- **Do not touch URLs inside backticks.** If a URL appears inside inline code (`` ` ``) or a fenced code block, leave it alone — it is a code reference, not a navigable link.
-- **Fix only the link, not the surrounding content.** Do not rewrite sentences, reformat paragraphs, or make unrelated edits. The diff should contain only the corrected URLs.
-- **Verify replacements.** Before submitting, confirm that the new URL returns a 200 status and points to the correct content.
-- **If no valid replacement exists,** do not guess. Instead, leave a comment on the issue explaining which link could not be resolved and why, so a maintainer can decide what to do.
-- **Reference the issue.** Include `Contributes to #<issue-number>` in the PR description. Do not use `Fixes` or `Closes` — a single-page PR will not resolve the entire issue.
-
 ## Style Guide
 
 - Use @kubernetes/website/blob/main/content/en/docs/contribute/style/style-guide.md as the style guide for this entire site. Only use the content and wording recommendations, do NOT use any Hugo specific content from this source. This is intended to be for content style only.
