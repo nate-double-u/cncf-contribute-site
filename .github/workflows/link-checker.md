@@ -39,6 +39,7 @@ safe-outputs:
   create-issue:
     max: 10
     allowed-repos: ["cncf/techdocs"]
+    assignees: [copilot]
   update-issue:
     max: 10
     target: "*"
