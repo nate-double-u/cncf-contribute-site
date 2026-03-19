@@ -1,11 +1,11 @@
 ---
 title: Cloud Native Project Monthly (CNPM) March 2026 Newsletter
-date: 2026-03-18
+date: 2026-03-19
 authors: [krook, idvoretskyi, castrojo, jeefy, mrbobbytables, nate-double-u, riaankleinhans, robertkielty]
 tags: [maintainers, community, projects, services, newsletter]
 ---
 
-Welcome to the March 2026 edition of the Cloud Native Project Monthly (CNPM) Newsletter. We hope you’re excited for [KubeCon + CloudNativeCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) next week!
+Welcome to the March 2026 edition of the Cloud Native Project Monthly (CNPM) Newsletter. We hope you’re excited for [KubeCon + CloudNativeCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) in Amsterdam in a few days!
 
 CNCF staff will be at the [Maintainer Summit](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/features-add-ons/maintainer-summit/) and the [Project Pavilion](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/features-add-ons/project-engagement/#project-pavilion) throughout the week. Please find us if you have any questions about support for your projects.
 
