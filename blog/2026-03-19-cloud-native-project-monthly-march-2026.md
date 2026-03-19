@@ -34,21 +34,12 @@ This guide specifically covers:
 
 > 📺 **Watch the new instruction video:** [Managing PCC & YouTube Integration](https://www.youtube.com/watch?v=KOSRy4c4Yv8)
 
----
-
 ### Join Us in Amsterdam
 
 If your project hasn't switched to PCC meetings yet, **KubeCon + CloudNativeCon Europe** is the perfect place to get started.
 
 * **Meet the Team:** The CNCF Project Team will be on-site in **Amsterdam**. It’s a great time to meet in person, walk through the setup, and make the switch on the spot.
 * **Can’t make it?** If we won’t see you in Amsterdam, please reach out to the project team via the [CNCF Service Desk](https://servicedesk.cncf.io/) to begin your transition.
-
----
-
-**Quick Links:**
-
-* **CNCF Calendar:** [cncf.io/calendar](https://www.cncf.io/calendar/)
-* **Support:** [servicedesk.cncf.io](https://servicedesk.cncf.io/)
 
 ## Updates to the Open Source Partnership Program (OSPP)
 
