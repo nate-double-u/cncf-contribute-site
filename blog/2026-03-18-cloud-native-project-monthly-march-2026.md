@@ -7,7 +7,7 @@ tags: [maintainers, community, projects, services, newsletter]
 
 Welcome to the March 2026 edition of the Cloud Native Project Monthly (CNPM) Newsletter. We hope you’re excited for [KubeCon + CloudNativeCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) next week!
 
-CNCF staff will be at the [Maintainer Summit](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/features-add-ons/maintainer-summit/) and the [Project Pavilion](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/features-add-ons/project-engagement/#project-pavilion) throughout the week. Please find us if you have any questions you'd like to ask about support for your projects.
+CNCF staff will be at the [Maintainer Summit](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/features-add-ons/maintainer-summit/) and the [Project Pavilion](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/features-add-ons/project-engagement/#project-pavilion) throughout the week. Please find us if you have any questions about support for your projects.
 
 ## Table of contents
 
@@ -16,7 +16,6 @@ CNCF staff will be at the [Maintainer Summit](https://events.linuxfoundation.org
 * [Rolling out `.project` for Project Metadata](#rolling-out-project-for-project-metadata)
 * [Looking for a New Role? Check out GitJobs](#looking-for-a-new-role-check-out-gitjobs)
 * [Happenings at KubeCon + CloudNativeCon EU](#happenings-at-kubecon--cloudnativecon-eu)
-* [See you next month](#see-you-next-month)
 
 <!-- truncate -->
 
