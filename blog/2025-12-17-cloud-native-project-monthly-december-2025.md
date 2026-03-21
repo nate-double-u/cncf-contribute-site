@@ -119,7 +119,7 @@ We've identified a small number of cases where third-party services may not yet 
 
 :::tip Take the Maintainer Survey
 
-**Help us help you**: [maintainers-survey.cncf.io](http://maintainers-survey.cncf.io)
+**Help us help you**: [maintainers-survey.cncf.io](https://maintainers-survey.cncf.io)
 
 :::
 
