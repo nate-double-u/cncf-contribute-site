@@ -1,7 +1,7 @@
 # Mini Shai-Hulud
 
 A new wave of the [Shai-Hulud](../2025/shai-hulud.md) worm compromised packages in the npm and PyPi ecosystems starting at the end of April.
-Particularly, in May 11 `@tanstack/* npm packages` were compromised through cache poisining a GitHub Action.
+Particularly, on May 11 `@tanstack/* npm packages` were compromised through cache poisoning a GitHub Action.
 The malicious versions of the packages contained an obfuscated `router_init.js` file that steals credentials, exfiltrates data, and self-propagates.
 
 ## Impact
