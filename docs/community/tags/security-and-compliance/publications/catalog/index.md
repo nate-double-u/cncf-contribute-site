@@ -34,6 +34,8 @@ of compromise needs added, please include that as well.
 <!-- cSpell:disable -->
 | Name              | Year               | Type of compromise    | Link        |
 | ----------------- | ------------------ | ------------------    | ----------- |
+| [GitHub Source Code Leak](2026/github-vscode.md) | 2026 | Dev Tooling | [1](https://www.securityweek.com/github-confirms-hack-impacting-3800-internal-repositories/) |
+| [GitHub Push RCE](2026/github-push-rce.md) | 2026 | Publishing Infrastructure | [1](https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/) |
 | [Mini Shai Hulud](2026/mini-shai-hulud.md) | 2026 | Publishing Infrastructure/Attack Chaining | [1](https://socket.dev/supply-chain-attacks/mini-shai-hulud) |
 | [axios compromise](2026/axios.md) | 2026 | Social Engineering/Phishing Attack/Attack Chaining | [1](https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan) |
 | [LiteLLM and Telnyx](2026/litellm-telnyx.md) | 2026 | Attack Chaining | [1](https://blog.pypi.org/posts/2026-04-02-incident-report-litellm-telnyx-supply-chain-attack/) |
