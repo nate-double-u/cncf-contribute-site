@@ -21,7 +21,7 @@ CNCF staff will be at the various [maintainer-focused activities](https://events
 
 <!-- truncate -->
 
-## The .project Repository Rollout Has Started
+## The `.project` Repository Rollout Has Started
 
 The CNCF is officially rolling out `.project` repositories across all projects. [This effort is designed to make maintainer records and project metadata consistent and accurate](https://contribute.cncf.io/blog/2026/04/22/introducing-dot-project-for-maintainers/).
 
