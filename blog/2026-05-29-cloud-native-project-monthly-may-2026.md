@@ -11,6 +11,8 @@ We didn't send out an edition in April due to the volume of other staff messages
 
 We look forward to seeing many of you at [KubeCon + CloudNativeCon India](https://events.linuxfoundation.org/kubecon-cloudnativecon-india/) next month!
 
+CNCF staff will be at the various [maintainer-focused activities](https://events.linuxfoundation.org/kubecon-cloudnativecon-india/features-add-ons/project-engagement/) on June 18-19.
+
 * [The `.project` Repository Rollout Has Started](#the-project-repository-rollout-has-started)
 * [Cloud Native Community Groups Migration](#cloud-native-community-groups-migration)
 * [Kapa.ai Tech Doc Assistants Now Available](#kapaai-tech-doc-assistants-now-available)
