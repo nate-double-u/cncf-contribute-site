@@ -1,9 +1,9 @@
-# Validate: cue vet -c -d '#MappingDocument' github.com/gemaraproj/gemara@v1.0.0-rc.1 this-file.catalog
+# Validate: cue vet -c -d '#MappingDocument' github.com/gemaraproj/gemara@v1.3.0 this-file.yaml
 title: Cloud Native Security Controls (CNSC) to NIST SP 800-53 Rev. 5 Mapping
 metadata:
   id: CNSC-NIST-800-53-MAPPING
   type: MappingDocument
-  gemara-version: '1.0.0-rc.1'
+  gemara-version: '1.3.0'
   version: 1.0.0
   description: This document maps the Cloud Native Security Controls Catalog to NIST 800-53 SP Rev.5 Guidelines.
   author:
