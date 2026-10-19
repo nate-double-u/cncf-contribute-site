@@ -249,7 +249,7 @@ A: Projects are strongly encouraged to meet with their TAG to receive feedback o
 
 The TOC, with support from the [Technical Advisory Groups](/community/tags/), have a wide variety of resources available to assist projects.  Current and aspiring maintainers of cloud native projects can find a lot of information and templates on [contribute.cncf.io/maintainers](/maintainers/). The TOC also maintains [project Guide Posts](https://github.com/cncf/toc/blob/main/resources/project_guideposts.md) - a collection of guiding points that have assisted cloud native projects as they grow and mature in the ecosystem. These are not requirements for moving levels, those may be found in the respective application issue templates ([Incubation](https://github.com/cncf/toc/blob/main/.github/ISSUE_TEMPLATE/template-incubation-application.md), [Graduation](https://github.com/cncf/toc/blob/main/.github/ISSUE_TEMPLATE/template-graduation-application.md)). The [Guide Posts](https://github.com/cncf/toc/blob/main/resources/project_guideposts.md) are resources for projects to leverage that are beneficial in meeting or exceeding the criteria defined.
 
-Projects that are adding, documenting or archiving sub-projects can find answers to common questions in the [Sub-projects in CNCF Projects FAQ](./sub-projects.md).
+Projects that are adding, documenting or archiving subprojects can find answers to common questions in the [Subprojects in CNCF Projects FAQ](./subprojects.md).
 
 Additionally, projects interested in preparing to apply to move levels are encouraged to pursue the following activities as the resulting artifacts can and often are leveraged in the TOC's completion of the Due Diligence in lieu of certain sections of the DD.
 
