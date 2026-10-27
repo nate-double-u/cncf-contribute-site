@@ -26,14 +26,14 @@ CNCF staff will be at the various
 [maintainer-focused activities](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/features-add-ons/project-engagement/)
 all week.
 
-- [KubeCon NA Maintainer Activities](https://contribute.cncf.io/blog/2026/10/27/cloud-native-project-monthly-october-2026#kubecon-na-maintainer-activities)
-- [Thank You for Helping Us Get `.project` Over the Line](https://contribute.cncf.io/blog/2026/10/27/cloud-native-project-monthly-october-2026#thank-you-for-helping-us-get-project-over-the-line)
-- [Prow Without Running Prow](https://contribute.cncf.io/blog/2026/10/27/cloud-native-project-monthly-october-2026#prow-without-running-prow)
-- [GPU Runners Now Available for CNCF GitHub Actions](https://contribute.cncf.io/blog/2026/10/27/cloud-native-project-monthly-october-2026#gpu-runners-now-available-for-cncf-github-actions)
-- [TechDocs News](https://contribute.cncf.io/blog/2026/10/27/cloud-native-project-monthly-october-2026#techdocs-news)
-- [Upcoming Dates of Interest](https://contribute.cncf.io/blog/2026/10/27/cloud-native-project-monthly-october-2026#upcoming-dates-of-interest)
-- [CNCF Annual Survey](https://contribute.cncf.io/blog/2026/10/27/cloud-native-project-monthly-october-2026#cncf-annual-survey)
-- [Please Complete the 2H 2026 Maintainer Survey](https://contribute.cncf.io/blog/2026/10/27/cloud-native-project-monthly-october-2026#please-complete-the-2h-2026-maintainer-survey)
+- [KubeCon NA Maintainer Activities](/blog/2026/10/27/cloud-native-project-monthly-october-2026#kubecon-na-maintainer-activities)
+- [Thank You for Helping Us Get `.project` Over the Line](/blog/2026/10/27/cloud-native-project-monthly-october-2026#thank-you-for-helping-us-get-project-over-the-line)
+- [Prow Without Running Prow](/blog/2026/10/27/cloud-native-project-monthly-october-2026#prow-without-running-prow)
+- [GPU Runners Now Available for CNCF GitHub Actions](/blog/2026/10/27/cloud-native-project-monthly-october-2026#gpu-runners-now-available-for-cncf-github-actions)
+- [TechDocs News](/blog/2026/10/27/cloud-native-project-monthly-october-2026#techdocs-news)
+- [Upcoming Dates of Interest](/blog/2026/10/27/cloud-native-project-monthly-october-2026#upcoming-dates-of-interest)
+- [CNCF Annual Survey](/blog/2026/10/27/cloud-native-project-monthly-october-2026#cncf-annual-survey)
+- [Please Complete the 2H 2026 Maintainer Survey](/blog/2026/10/27/cloud-native-project-monthly-october-2026#please-complete-the-2h-2026-maintainer-survey)
 
 <!-- truncate -->
 
