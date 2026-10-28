@@ -40,7 +40,7 @@ low-barrier ways to get closer to a project.
 [Maintainer Track](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/schedule/?all-sessions=maintainer-track)
 sessions,
 [ContribFests](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/features-add-ons/project-engagement/#contribfest),
-[Project Lightning Talks](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/features-add-ons/project-engagement/#contribfest),
+[Project Lightning Talks](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/features-add-ons/project-engagement/#project-lightning-talks),
 and the
 [Project Pavilion](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/features-add-ons/project-engagement/#project-pavilion)
 can help turn “I use this project” into “I know how to contribute to it.”
@@ -77,7 +77,7 @@ review those requirements ahead of time.
 ## Monday: See what projects are building
 
 On Monday,
-[Project Lightning Talks](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/features-add-ons/project-engagement/#contribfest)
+[Project Lightning Talks](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/features-add-ons/project-engagement/#project-lightning-talks)
 give CNCF projects five minutes each to share recent updates, new features, and
 other highlights.
 
